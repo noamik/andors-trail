@@ -138,7 +138,7 @@
    eJy9VksKAjEMrYJuRBkE3bnxOF5gTqAeyVMNiAcRFRR0pQGLMb4m6TD1beaTmbw0TV4awgebKhRF/fbfMJ6twdl0EFMNfNC76wB/fwPvtdycXrZz9blq/xDvbIj9zBPvEVBezkqMKAceG8LJ4Oaxab5TOb2PQniM/PGgdZeuZQSqZbQvu14Iq/fertge83v6JhdxH3L3rw14jUdwXlqLtYZjT3/WuDhKrzelOf/Ic0ne3BqzeC/j9rHk8nKtnk6+bVGvpZ5LHUd2rtmIl2v1UvBGvR4I3R6KZ8u+6P/yaohxtuGVPWXNXw7S1DWYX3JuWXZCFzVt+aiBhqB/UjqU6hdrtkg75fhf80jWcxc9ujdi5zmOPSZ7lIDOVR7wNaVmQ6w52aME77lKnuOsOUTQ+sdT45pvzW6dq9aF6k3yluKRyNVID+R5Hdk9OIDaRPXquXqxZf4j2vjh/xKeD/Bsmg==
   </data>
  </layer>
- <layer name="Walkable" width="30" height="30" visible="0">
+ <layer name="Walkable" width="30" height="30">
   <data encoding="base64" compression="zlib">
    eJzFlNERwCAIQx2hS7n/Sv3teTUJCbbc+dMKDwI4rzHmzweZ4qsyVN8urloDur9qcZKLesDioZ6hGCoX8Zluqu1yZuxUf5a38s+t2TGnLlUzheXmzOKle1Lh7u5+UW/Xu4C4rlVnAb0RLMYpbtf8n+A6Gin5d+37s7a3b8k87+Kq9SLtTuySa6znipYJM425ap4wE+3dea+y05lms9nNXLWpGvPt7GNH/7tny62/sr/uuQG+VaKz
   </data>
@@ -184,6 +184,12 @@
    <properties>
     <property name="map" value="wild2"/>
     <property name="place" value="north"/>
+   </properties>
+  </object>
+  <object name="test" type="mapchange" x="64" y="192" width="32" height="32">
+   <properties>
+    <property name="map" value="test_city"/>
+    <property name="place" value="harbor"/>
    </properties>
   </object>
  </objectgroup>

@@ -637,5 +637,9 @@
 		<item>@xml/tradehouse0</item>
 		<item>@xml/tradehouse1</item>
 		<item>@xml/tradehouse0a</item>
+		
+		<!-- my maps -->
+		<item>@xml/test_city</item>
+		<item>@xml/testmap_inn</item>
 	</array>
 </resources>

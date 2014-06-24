@@ -1,0 +1,33 @@
+[
+  {
+    "id": "rockgiant",
+    "name": "Rock Giant",
+    "size": "3x3",
+    "maxHP": 99999,
+    "unique": 1,
+    "monsterClass": "giant",
+    "attackDamage": {
+      "min": 500,
+      "max": 5000
+    },
+    "hitEffect": {
+      "increaseCurrentHP": {
+        "min": 10,
+        "max": 100
+      },
+      "increaseCurrentAP": {
+        "min": 1,
+        "max": 5
+      }
+    },
+    "iconID": "monsters_rockgiant:0",
+    "spawnGroup": "rockgiant",
+    "faction": "none",
+    "attackCost": 1,
+    "attackChance": 1000,
+    "criticalSkill": 50000,
+    "criticalMultiplier": 10,
+    "blockChance": 500,
+    "damageResistance": 999
+  }
+]
