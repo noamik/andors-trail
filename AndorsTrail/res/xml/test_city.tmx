@@ -192,10 +192,10 @@
  </layer>
  <layer name="Above" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxjYCAOFLMyMBSxEqkYCygB6i2lQD+5oAVoZysQB0viVhMqjsrfLUqeXbeFIXSQJMI+ZzR7C1khmBTQIoKfzmaC0IfEEPah29vICsHxQLxNAOJnZEwOqEazdzIrpr2JHAwMSUCczEGcPYlA/UlEYnz+xQeSSVCLDZBrLzZArH+TKfAvOjiNJX3nA+PyrwyEDaJzoXweJur6FwQkmRDseiCbV5aB4bUghK6F8s1YqW8vsQBkF8w+YtMKtvyELkaMHCX5EQbwlXX45CgF+OKIlvE3UPbiSxu45GgZ/vgAPfPPqL2j9o7aO2rvqL3EA1LbpITaD8RidAAAunBH3w==
+   eJxjYCAOFLMyMBSxEqkYCygB6i2lQD+5oAVoZysQB0viVhMqjsrfLUqeXbeFIXSQJMI+ZzR7C1khmBTQIoKfzmaC0IfEEPah29vICsHxQLxNAOJnZEwOqEazdzIrpr2JHAwMSUCczEGcPYlA/UlEYnz+xQeSSVCLDZBrLzZArH+TKfAvOjiNJX3nA+PyrwyEDaJzoXweJur6FwQkmRDseiCbV5aB4bUghK6F8s1YqWcvLA0iY1B6RJeDiYHsgtlHbFrBlp/QxYiRoyQ/wgC+sg6fHKUAXxxRI90MNnvxpQ1ccrQMf3yAluEwau+ovaP2jto7ai/5gNQ2KaH2A7EYHQAAZUJMAw==
   </data>
  </layer>
- <layer name="Walkable" width="30" height="30">
+ <layer name="Walkable" width="30" height="30" visible="0">
   <data encoding="base64" compression="zlib">
    eJzbKMbAsHEAMTIgRS2xgFr2kuonavmFnLCkRnzQ015y/Uup3ZSGMzX8TE//DpS92MKLFLMoiR9SATXDmVr+GbV31N6BtncUj+JRPIpH8fDGAMgEdcU=
   </data>
