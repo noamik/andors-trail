@@ -352,6 +352,7 @@ public final class ResourceLoader {
 		loader.prepareTileset(R.drawable.map_roof_1, "map_roof_1", src_mapTileSize, defaultTileSize);
 		loader.prepareTileset(R.drawable.map_roof_2, "map_roof_2", src_mapTileSize, defaultTileSize);
 		loader.prepareTileset(R.drawable.map_roof_3, "map_roof_3", src_mapTileSize, defaultTileSize);
+		loader.prepareTileset(R.drawable.map_roof_4, "map_roof_4", src_mapTileSize, defaultTileSize);
 		loader.prepareTileset(R.drawable.map_shop_1, "map_shop_1", src_mapTileSize, defaultTileSize);
 		loader.prepareTileset(R.drawable.map_sign_ladder_1, "map_sign_ladder_1", src_mapTileSize, defaultTileSize);
 		loader.prepareTileset(R.drawable.map_table_1, "map_table_1", src_mapTileSize, defaultTileSize);
