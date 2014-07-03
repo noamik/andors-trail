@@ -185,25 +185,44 @@
  </tileset>
  <layer name="Ground" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztwQEBAAAAgiD/r25IQAEAAPBoDhAAAQ==
+   eJztlstOwkAUhg8xaCQETWjZFMFX8JKw8U7jSlSEpXeI7l3oExjUeNsoYNwqeHkLJeEBfASXXl5AjX+DDcOkl2lB2bj40tOZnvly0tPOVLuJqm0k4iGKgn6P8fyAn2iwSYb8zr2TyJlieAqKo+fEbbyqAbz3OSiOqFek3nZ5XxWiNwHeFWuvGXo/ZTnvB9b7FODLpZevU+c6QFQSoAzuQkT3ob/3trLec6yXF6Dg0pvEswsMu57GezumvUQxby1OOfDynJn0u8aoxVyz/Ht/x8vvQ1ce8/0mwcwlZfQSSIG0bLx23od+54ijB1Wv+Xdkxxpc6yADsg68GhnGO4LccYZRMMaNTch1bw7xHtgHBw69RV/du4jcFYYlsMyNrTLePOICKIILC++mZIzunUHuHEMCzHJj84y3hLgMOrqIbi28O5IxbutlMfs/itR7iDVPGI7AMTd26sJrV++lLEarvfr7upFr74u/16+8U5WsvTnJGDOvmV/3xZBbAmmwIZl7A2GiHo7esHvvMM43W/BlwbaFtw+OyA9a72vXKON9wDqPoKI0xtXOelxhzlIvGFeVOm7/G27QatZxui/w5w0n2NXbDr4BfQor9Q==
   </data>
  </layer>
  <layer name="Objects" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztwzERACAMBLC+CSQgAf/SGOqAoQOX3KUKAIAfrPRpO33aSQfeXVvjAOs=
+   eJzVlj1oFEEYhmcX94IQLpE7NkjYxkKwsFJiI6IYYnME5YyCikFNIUGRNOIRTrkggkj8AVFMgo2oaGKrprRRztomiVpd4Q/axFLFd/xm2Jm53duZNY0vPHwzs7Pzzszu/DBmp4GAyKuDAdFJz3vby3YExL6c3p18Gz0UXxu+IyFjQwEhfd+ViOUNcdpkRUSusRTfiYDgGvTa2dOt12+hvcvlzvFriaLUWIJvIyBGeb/gcwBUBTx/z5jjVkmHj9ssaxm+SboVEOcCfZ53C69diOMo3+tT/ls/YxWkJyPGDuH7HO6h9HeU7ywwVhPpTfB9kOOf2I93zoNh8e5R0aefaPMYfK+h/V/9hExX4HtVpH+DWfwfc6Gbbx1+F8Elo88fwFsLPoJ5eC44+k7D7zq4AW4q3o+KjM10YSxgDjxGvh7F8axPsRuxmmOeb+OdGngi3i2J73sH7T+F3zxYAHeRn47iWPcp8r3mFDjh6P0wo37ox+mtXnq9Pj/9WZJe9eokldk8U+u4ytzHbJ/9r0o6L2yeuWgb/qftoMn09chY+lrlOhnG6SyNGH1tIN8s0rpb+sf+24jv7aayfCuO68NGtbDd91mk5/kebZZx/SgQqyK6Ku88r+siZHqtfJO+SZpW3G0130+RHs3yTr6hp5MkdSzSl3+jYZ/iRj/+fibqHUqe1dx3s6eTJXW8x+F3X4zNjHLfP5JwjnDfAU/H1tfmnOdn/LjiO4r73UQ520NqVfnv1fHOiPOcxy24T71AvZdgsUBlqt7nWDtSi9izzhjzVhfzGSG+EW03C8nn61SZ7rRXHMb8t73i2uyTp1P2NPWuXDXuzZ/x/EtO1sNvFvN/IcdemnV/sMXUH84o3YA=
   </data>
  </layer>
  <layer name="Above" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztwQEBAAAAgiD/r25IQAEAAPBoDhAAAQ==
+   eJxjYCAOFLMyMBSxEqkYCygB6i2lQD+5oAVoZysQX5bEreaqOCrfWow8u24LQ+hLkgj7DqPZW8gKwaSAFhH8dDYThHYSR9iHbm8jKwTHA/E2AYifkTEMWAsQ765qNHsns2Lam8jBwJAExMkcmOGMDLyh9j4E6n9EJMbnX3zgMQlqsQFy7YWBBqT4J9a/jynwLzrwxpK+84FxWSsLYYPoXCifh4l69sKAJBOCXQ9k9wLteS0IoWuhfDNW6tkLS4PIGJQe0eVgYiC7YPYRm1aQ89I2AUwxYuSw5UdSAEwftrIOnxy1AHIcoZcjMDlDUQYGIyA2BmITUerb643DXkegXU5A7AzELiTYu5MPQodgKReR00a0AG45ZIBcN+ACjfzEu49YgJyX6AlobS8oPC+hmf+Yj3R7iYkXZAAyH4RBetZAy81pwDJroyRp9QvIjINk2AvyGyyPLcNS7xJjzkYy7UXOY6Taixw+X9hQaXTAzoRqrzGwvWMCxKYipNt7kMj4nQeNS2R7g6DtrDAy7IXFLzH1PKyOR067iSKkuR/ZXlzxay6ISqP7F90cUvz8SJK09I/sd3LtxVY2kwuw2UvNehrU3igE4kYOVHFSw41Q+4FYjA4A+WfCOg==
   </data>
  </layer>
  <layer name="Walkable" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztwQEBAAAAgiD/r25IQAEAAPBoDhAAAQ==
+   eJztklEOwCAIQ73FzuH9L7evJca4lNKi+xiJH8bCo2C/WusHzxiMNhouLuvJ5SUzS8c+dnKzflX2k5f1q3BP+FXy3X6ZWsp+2HDO2eXn536Di/7N6p6pHWWifrJ+xje2f3WO1VxHnZUe1XZzI7Oq5r714uTOOSe4aNYVXFXHchn9rEN3pI2y0e6zwewm2lM1t+rc1TO7mQ==
   </data>
  </layer>
- <objectgroup name="Mapevents" width="30" height="30"/>
+ <objectgroup name="Mapevents" width="30" height="30">
+  <object name="harbor_inn_entry" type="mapchange" x="512" y="288" width="32" height="32">
+   <properties>
+    <property name="map" value="blue_waters_city_harbor_inn"/>
+    <property name="place" value="entry"/>
+   </properties>
+  </object>
+  <object name="harbor" type="mapchange" x="64" y="32" width="96" height="96">
+   <properties>
+    <property name="map" value="crossglen"/>
+    <property name="place" value="test"/>
+   </properties>
+  </object>
+  <object name="runway_from_haven" type="mapchange" x="928" y="672" width="32" height="64">
+   <properties>
+    <property name="map" value="blue_waters_city_east_isles"/>
+    <property name="place" value="runway_to_haven"/>
+   </properties>
+  </object>
+ </objectgroup>
  <objectgroup name="Spawn" width="30" height="30"/>
  <objectgroup name="Keys" width="30" height="30"/>
  <objectgroup name="Replace" width="30" height="30"/>
