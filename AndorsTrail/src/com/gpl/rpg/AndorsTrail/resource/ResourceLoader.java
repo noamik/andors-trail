@@ -337,6 +337,7 @@ public final class ResourceLoader {
 		loader.prepareTileset(R.drawable.map_ground_6, "map_ground_6", src_mapTileSize, defaultTileSize);
 		loader.prepareTileset(R.drawable.map_ground_7, "map_ground_7", src_mapTileSize, defaultTileSize);
 		loader.prepareTileset(R.drawable.map_ground_8, "map_ground_8", src_mapTileSize, defaultTileSize);
+		loader.prepareTileset(R.drawable.map_ground_9, "map_ground_9", src_mapTileSize, defaultTileSize);
 		loader.prepareTileset(R.drawable.map_house_1, "map_house_1", src_mapTileSize, defaultTileSize);
 		loader.prepareTileset(R.drawable.map_house_2, "map_house_2", src_mapTileSize, defaultTileSize);
 		loader.prepareTileset(R.drawable.map_indoor_1, "map_indoor_1", src_mapTileSize, defaultTileSize);
