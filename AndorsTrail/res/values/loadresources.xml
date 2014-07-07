@@ -639,7 +639,8 @@
 		<item>@xml/tradehouse0a</item>
 		
 		<!-- my maps -->
-		<item>@xml/test_city</item>
-		<item>@xml/testmap_inn</item>
+		<item>@xml/blue_waters_city_east_isles</item>
+		<item>@xml/blue_waters_city_harbor</item>
+		<item>@xml/blue_waters_city_harbor_inn</item>
 	</array>
 </resources>
