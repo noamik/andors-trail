@@ -191,17 +191,17 @@
  </tileset>
  <layer name="Ground" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztwQEBAAAAgiD/r25IQAEAAPBoDhAAAQ==
+   eJztwzENAAAMA6DeU1b/iipkkNBLqqqq6rsDnJsgWA==
   </data>
  </layer>
  <layer name="Objects" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztwQEBAAAAgiD/r25IQAEAAPBoDhAAAQ==
+   eJztzUERABAUQEEVBDcSGBFEcHMVQQQRiPEO/22BTUmSJEVQobdD74DeCb0beg/0Xuh90Fugt0HvylAc0AdGNQg6
   </data>
  </layer>
  <layer name="Above" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztwQEBAAAAgiD/r25IQAEAAPBoDhAAAQ==
+   eJztzcEAAEAIALAU+p0/RCb5BHAAPdoEFgEAAPCr3Hn77bwXDdc9AbU=
   </data>
  </layer>
  <layer name="Walkable" width="30" height="30">

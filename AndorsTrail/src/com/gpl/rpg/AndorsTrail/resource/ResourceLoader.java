@@ -310,6 +310,7 @@ public final class ResourceLoader {
 		loader.prepareTileset(R.drawable.monsters_zombie2, "monsters_zombie2", src_sz1x1, defaultTileSize);
 
 		loader.prepareTileset(R.drawable.map_bed_1, "map_bed_1", src_mapTileSize, defaultTileSize);
+		loader.prepareTileset(R.drawable.map_boats_1, "map_boats_1", src_mapTileSize, defaultTileSize);
 		loader.prepareTileset(R.drawable.map_border_1, "map_border_1", src_mapTileSize, defaultTileSize);
 		loader.prepareTileset(R.drawable.map_bridge_1, "map_bridge_1", src_mapTileSize, defaultTileSize);
 		loader.prepareTileset(R.drawable.map_bridge_2, "map_bridge_2", src_mapTileSize, defaultTileSize);
