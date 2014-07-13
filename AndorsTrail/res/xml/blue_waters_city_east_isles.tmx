@@ -241,7 +241,7 @@
    </properties>
   </object>
  </objectgroup>
- <objectgroup name="Spawn" width="30" height="30">
+ <objectgroup name="Spawn" width="30" height="30" visible="0">
   <object name="Fishermen" type="spawn" x="192" y="160" width="96" height="32">
    <properties>
     <property name="quantity" value="1"/>

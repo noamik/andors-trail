@@ -191,12 +191,12 @@
  </tileset>
  <layer name="Ground" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJzt1EEOgCAMBEDOmHD1H76CB/kjP0qMF9NobKG7QOJhrzuBtM0xhCyyJ3ykybLfXLT/5aJ8rettW1xPu5d7xCu9XK2NcDU2ymXZv8txN6OJcFk7fHYw3XuH9Y9nc2UHa6ZmdFtnuMb12J0nl7Gzo7isG2VNqzmCuy48s+bNKLcAOA6Wjw==
+   eJzt1EEOgCAMBEDOmHj1H77CB/EjP0qIF2MMaaG7hehhrzuBtE1rCOlDOWI9Xi7Kl7rWtsa1tL3cM17xcqU2wpXYKJdl/y7H3ZUmwmXtcOlguvcO7R/P5j47WDM1o9s7wy2uxe68uYydHcVl3Shtes0R3G3hmS1vRrkZoMaYnw==
   </data>
  </layer>
  <layer name="Objects" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxjYEAFRXwMAwIW8g2s3YtGuP0j0e5iKtr7VIKBYasE/e0FgSdE2k1te4m1m1r2NguSZjct09Y2OvkZHfCJ0MfeGZIMDDMlIew/wgwMR+nk33fAOO6E2ksojKlhrygbhP4gBLH3EJB9GIiP0NheECjkQ/iXGL+Say8s3xRC65nFQLwCaOdKKtrbKIhbrhmqdz6SGDH2TgTqayIznAuh/gSB9STaS0ncgvwK8ucCIN4PxPLA/KogQtheSvxaIQCxF+TPDUB8Hoj1gXYaELCXEjthAGQvyJ8HgPg+VOyKBP7yghp5B2QvyJ8XgPg9VIweZTLIXpA/HwDxfwbCfqWmvSB/fgDiXgbCdpITt+j1K8xekD8ZGBkY5hJhBtXqej6IP/uA+BiesgUEqJGOYaARaM5kqFkS3PjVUruOB/n5IjCcLzPS314YAADVGlqu
+   eJzllb1OwzAUhW8XFqSI0iKlE7wBvFrLwlo6MYCEWOiAILDABAusIP5WQLDDACv0ASrBObItVRWN3eTGS490lMhJ7qdjx74is6VOItKGj/8xn1WlDLVPJtTPIvDzlM0oe12R+5WKXKbxudRnIFubG8rW4vbq07Gr/LeuImUeV9KMw91vifRb5n7YEHmIlPcba7xlub451uAuzZnrYNFwb3F/B99XzKXYh1zekKxFuW7fuL7HPnQK5pkit1uf/Kxnvz0cGQvh7uK7zYLz3B7pt+dTcsusLbMy5xF8DS9jv640/dwyWTcWDJc5L+AneBXMNQ+3DNOJXOa8gd/t2Fuaf15o7B1ymfMZ/rFjMc5kcpnzA/4Vf1ZNLnMO4G3xM4us7Xh/dVzmlJrIQUANtV6fmJw78GPO2UJp/MdOXdTZs7XS+fx3tXs8M79gnl9r8blOf1BjXW8=
   </data>
  </layer>
  <layer name="Above" width="30" height="30">
@@ -204,7 +204,7 @@
    eJxjYBgFo2AUjILBDybxIdj/hAfOHfQEymyo/G0S9HfDFTraqSRCP7tAADlNHaSv1WCgTgf/NvGh8vuBWEWItnYMBgDy54SBdgQdwKRBGPb0AJYCA2Ov5wDZS2tAKB1tE6SPO9DBVTrXeXOBeB59rYQDkF/p7V9kAAAf1A8W
   </data>
  </layer>
- <layer name="Walkable" width="30" height="30" visible="0">
+ <layer name="Walkable" width="30" height="30">
   <data encoding="base64" compression="zlib">
    eJwzlGBgMBzFo3gUD0kMAgNl70DYjQwGyt6BtHs424luN73tHGi7ByKcByJeh7u9I8Wf2OwdqDJqIOylZxgPpL0jEY/UsAYAmq3yrA==
   </data>
