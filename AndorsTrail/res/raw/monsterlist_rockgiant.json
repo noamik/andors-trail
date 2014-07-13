@@ -2,7 +2,7 @@
   {
     "id": "rockgiant",
     "name": "Rock Giant",
-    "size": "3x3",
+    "size": "2x2",
     "maxHP": 99999,
     "unique": 1,
     "monsterClass": "giant",
@@ -29,5 +29,33 @@
     "criticalMultiplier": 10,
     "blockChance": 500,
     "damageResistance": 999
+  },
+  {
+    "id": "bw_minotaur",
+    "iconID": "monsters_misc:5",
+    "name": "Ancient minotaur",
+    "spawnGroup": "blue_waters_minotaurs",
+    "monsterClass": "giant",
+    "maxHP": 250,
+    "attackCost": 6,
+    "attackChance": 200,
+    "criticalSkill": 50,
+    "criticalMultiplier": 3,
+    "blockChance": 150,
+    "damageResistance": 25,
+    "droplistID": "cavemonster",
+    "attackDamage": {
+      "min": 15,
+      "max": 35
+    },
+    "maxAP": 20,
+    "moveCost": 5,
+    "movementAggressionType": "protectSpawn",
+    "hitEffect": {
+      "increaseCurrentHP": {
+        "min": 1,
+        "max": 15
+      }
+    }
   }
 ]
