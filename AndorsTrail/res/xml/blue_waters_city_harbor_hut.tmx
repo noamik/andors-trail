@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.0" orientation="orthogonal" width="8" height="11" tilewidth="32" tileheight="32">
+<map version="1.0" orientation="orthogonal" width="6" height="7" tilewidth="32" tileheight="32">
  <tileset firstgid="1" name="map_bed_1" tilewidth="32" tileheight="32">
   <image source="../drawable/map_bed_1.png" width="512" height="256"/>
  </tileset>
@@ -189,41 +189,35 @@
  <tileset firstgid="7833" name="map_window_2" tilewidth="32" tileheight="32">
   <image source="../drawable/map_window_2.png" width="512" height="256"/>
  </tileset>
- <layer name="Ground" width="8" height="11">
+ <layer name="Ground" width="6" height="7">
   <data encoding="base64" compression="zlib">
-   eJwzlmBgMAbiYi7s2BhJ3kQGFaOrdZFBxTBxmPp6ILsPihuw6APJm0IxsjyyPpjeeiSzTZHUgeS+iEPUwcxGl2eRQMi7QTHIHJj5MHmQGEweZE4/kK6D4glQMScCGADSBSal
+   eJzLEmNg6EfDKUCcBcTz0DBMfB0aBolXAbEFFyouAYo1YREHiU3CIg4Si5RBYDcuBBsAp0MUrg==
   </data>
  </layer>
- <layer name="Objects" width="8" height="11">
+ <layer name="Objects" width="6" height="7">
   <data encoding="base64" compression="zlib">
-   eJxjYIAAJwnsmAFJHgQi5SAYm55H/AwMmXIQvIkfIa4gAFH/i58BBcDkDaDyikC2EhArS6DK4wLY3AcCR/ixyz+Wwq//OFTfFiT9WYwQDGKfgIqLoLkPHwYAzSAXDA==
+   eJxzkmBgcMKBn/MzoAB0eRCYy4TgnwCqV2ODiDMyoKqDAUUkcXkgW5kVv/kwNgAaSQsY
   </data>
  </layer>
- <layer name="Above" width="8" height="11">
+ <layer name="Above" width="6" height="7">
   <data encoding="base64" compression="zlib">
-   eJxjYCAeHJaC0If4GRg2S2GXf84PYSPLO0lA8GMksYdY5C8DxaQEMM2FyR9G0nMRib1JCtV96PbD7NrOj91+GNjBjymGDC7jsB8fAACndhPg
+   eJxjYMANnCRQMQzs4GdgEGPDFMcF+AkrwQoeSSHYAH0oBAs=
   </data>
  </layer>
- <layer name="Walkable" width="8" height="11">
+ <layer name="Walkable" width="6" height="7">
   <data encoding="base64" compression="zlib">
-   eJwzlGBgMKQjRgaE1GHTg00/jI0sTo48ulp87iLkfhgGALQHEoo=
+   eJwzlGBgMKQyhgF0Pro4LvXI4jA2AHdtCWo=
   </data>
  </layer>
- <objectgroup name="Mapevents" width="8" height="11">
-  <object name="harbor_small_house_entry" type="mapchange" x="32" y="224" width="32" height="32">
+ <objectgroup name="Mapevents" width="6" height="7">
+  <object name="harbor_hut_entry" type="mapchange" x="96" y="192" width="32" height="32">
    <properties>
     <property name="map" value="blue_waters_city_harbor"/>
-    <property name="place" value="harbor_small_house_entry"/>
-   </properties>
-  </object>
-  <object name="harbor_small_house_entry2" type="mapchange" x="32" y="256" width="32" height="32">
-   <properties>
-    <property name="map" value="blue_waters_city_harbor"/>
-    <property name="place" value="harbor_small_house_entry2"/>
+    <property name="place" value="harbor_hut_entry"/>
    </properties>
   </object>
  </objectgroup>
- <objectgroup name="Spawn" width="8" height="11"/>
- <objectgroup name="Keys" width="8" height="11"/>
- <objectgroup name="Replace" width="8" height="11"/>
+ <objectgroup name="Spawn" width="6" height="7"/>
+ <objectgroup name="Keys" width="6" height="7"/>
+ <objectgroup name="Replace" width="6" height="7"/>
 </map>

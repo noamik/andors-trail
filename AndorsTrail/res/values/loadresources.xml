@@ -643,6 +643,7 @@
 		<!-- my maps -->
 		<item>@xml/blue_waters_city_east_isles</item>
 		<item>@xml/blue_waters_city_harbor</item>
+		<item>@xml/blue_waters_city_harbor_hut</item>
 		<item>@xml/blue_waters_city_harbor_inn</item>
 		<item>@xml/blue_waters_city_harbor_small_house</item>
 		<item>@xml/blue_waters_city_harbor_thieves_house</item>

@@ -261,7 +261,7 @@
   </object>
   <object name="harbor_hut_entry" type="mapchange" x="768" y="608" width="32" height="32">
    <properties>
-    <property name="map" value="harbor_hut"/>
+    <property name="map" value="blue_waters_city_harbor_hut"/>
     <property name="place" value="harbor_hut_entry"/>
    </properties>
   </object>
