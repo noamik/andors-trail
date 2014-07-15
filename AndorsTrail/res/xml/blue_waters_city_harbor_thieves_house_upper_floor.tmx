@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.0" orientation="orthogonal" width="30" height="30" tilewidth="32" tileheight="32">
+<map version="1.0" orientation="orthogonal" width="14" height="14" tilewidth="32" tileheight="32">
  <tileset firstgid="1" name="map_bed_1" tilewidth="32" tileheight="32">
   <image source="../drawable/map_bed_1.png" width="512" height="256"/>
  </tileset>
@@ -189,90 +189,28 @@
  <tileset firstgid="7833" name="map_window_2" tilewidth="32" tileheight="32">
   <image source="../drawable/map_window_2.png" width="512" height="256"/>
  </tileset>
- <layer name="Ground" width="30" height="30">
+ <layer name="Ground" width="14" height="14">
   <data encoding="base64" compression="zlib">
-   eJzFljsvREEUx89ustmEDQr3LskulW8g0XgVii28Kb1taFQifACFR7wqu0RQ2fVoUKgU7NIpPD6CFl8A8b9Zkx2TO7Mz14bilzl37pz55eTOnZlYCVHsH5gpy7HrI9oD+z73cachorNfch4y914h55rjqVIflpMp4M26IHqfK/XR9erUWwyv05p6XyJErxq8RdReGWw9PQved8z3ocGnwqtyi3UyDsqJUhqkwXGY6CT8915VvTK3zLuJ+RIaJD167zH2gSPg//lciNsA0UUgFz8aeEUsv/zdpeRfUO2TuuOL6dUdW0yvKX/lFc+hOr/8vLnz5eMem6gX9IF+233ucClRlUAGazAbkP9HhRiFawyMg7iBl8G8jcht4WgCzUJfq533LiBeBEtg2dBbzXkHkDvMMQiGhL4RzptAnARbYFvhnbTcYd525HZxdIBOoa+b86YQp8F8kOhI4Z2z3PFaLw+/P5rWu4I51zlWwZrQt+HBW6jeHVuPYnvZ9zq0c99LfGat6Gyz1N4Fyx2ZV+ZnvgbkpkA/mLDk3rIoUblARdS7tx73m2n44mBW4Y3CUfONs/adtpbzZjBPFtxEfsaxYD6+4e5SU+hvi+QRnc7eoLNveMGpmWF6Loj3DRNU9f4XX+HH6Oc=
+   eJxLFGNgiCcRpwBxIhD3k4hh+iaTiCnVV8/FwNAHxTA5ZDEQbuBCiFGqD1kMmzp0MXz6ItggGJ++ejTzA4DqM6A4DYjT2VD14tKXwIbfrSB9hUhhAFMHsi8MiOuAOB6IK4E4EoijgDgaiEvQwo7Y8MEW5sToJTWdIGMApXNuYw==
   </data>
  </layer>
- <layer name="Objects" width="30" height="30">
+ <layer name="Objects" width="14" height="14">
   <data encoding="base64" compression="zlib">
-   eJytl8trE0EcxycLm3jQPCQhqCEHxUPVu/oXSHuvIvUB3uytxEsRD9EiFB8ohRRbLYpQD1pQKxVBpEVRhFBak1MVHzSHotbHRRRM9TvMbHf2tzOTbegXvvxmZjfzmfdsyknGhuBWmnKFQ+UZxuYR38A1uG74fd0V5ioZeLwuqseu8CsNO4ps3HJaxJeE251HmSvscetZ4YXNfpr6rYxcDQP3pyvM9SIW9szGYFsaqG8gZ49fsiKu/kbDjcWFP/B2gTMP16R5fks8OMaNbNC837SsQbiePG4fYiYu/N0NjvO0ZD1D7EX5c0fklwuMVZE+XWTsIObnUFqkv6H8Kerpl+nt4O6I67lly3qeA+8XPCv5PbJNf1HnO3AvoP5mQdhLV8EZlOkVeBTr43o+zOUy7aUmeCvwP7KOj2LsuyL4GHwXzHsGbtmwjzeh7Uk4BaeV8RpPMbZ1A2Pb4AJ8B/kzRT8uOyJeRKyRNt8inHMabhasP/hdh2QOyfmtoP5d4O2G98DDyF8q+rHpiMjPmkX4k2Xf67g74+EyVRXHT0/EzO8NO+ZnOu5MJmhdWZRn6juq+F663eKcpudY1GcmRWGut9bC1N0XumcP4IfwpKUuztTdY5NYf4/gTrIfuUx7letE3k/bdAXuJv0oI/86Jfbd4Qh1tKObSpqf7aoWI3Crlv1h033Ls/58mDtRDOb5GU3LuE4lhEsyUk23aFe74zyQEPbSVHNtcumc2NSjqePjGrhLxWCk5TZuhfiH5j21Lx6Xz9GsI+I1x58/6rpy/nt3NeeOE7MW86f29z14Y7JvNHrn/oLm3uHcKeLLduwqN8o9z+/4zwr3OL7v+nL6esc0ZSVl/an9HZH3OY8d+J7ai/f2wfsTokzVEc0aVmW7R57gzPpKxq0px/MG4gFZd2dCf7+ezYlv2vOGPpvEz8r1OCeXSJuuJsPfyqr5s5Nwb5seBG8U4/+bcE3/j1S1+n6Iasr9D5gYAE8=
+   eJxjYIAAOTkGOEBm4xMDAT057Gx8YjBwlZ+BQV4AQsP4MNoVKO4mgFuvPprcbaAec1YIezuQ/YkfIccIxGlCDAzBjBB+nThC7jVQnTtQ3x0gfRyImZDMFYTSIH29QD19SPpA5oVD7YtiRXUL1BqGUCBDHSjnxIgqnw4UywTiLDR9MPtAZu9kQZW7JIXKv4jERzMeJxBmZ2AQYcduHz7ACtTDhqSPWPvQAbp9CWwMDMlA3IkDwwCeJER1AACvzxtg
   </data>
  </layer>
- <layer name="Above" width="30" height="30">
+ <layer name="Above" width="14" height="14">
   <data encoding="base64" compression="zlib">
-   eJy9Vr1OwzAQdiMSylRSaKgyMLJDixg6UdiyIWBh4h1YGZCQWOABWHgCli6RGCveoIiJAbUZK4TKz4QQnOWYXFzHsUPgkz6dY8f+fPbZZ0L08GoT8mLn/7e3JK9/g77vGv3LxoxDiA2887P/uW+mvzsZPuThYZHZgZ/o3Qq6E5vRBKcNtR1bzHabiZ6oW3EYH0E7dJnPmBwdV39eH4LugjOtO6wSMgJG1el1xghi3SH0H2lS5a8KkcG/MhTV/YGTFHX9jX7hr4hAEt/PsJfHy6xM7VP8fW6Vp8txaSXlLyhfgM64zuxn/B3a5enyGMSk8Si28TqqxfV0YwWfpdCdrtNpk51HE/B+srtO1VYW8B6J9whvW/UIWQO2gG2vfN0gQ3cTtLrALeC2hi7PYzc1Zncl9yKOjQM3uw0D54YsnMznz88U+Cz9J/5al67nQBg/qpnr6uwLBh2fkva5ju9ND+71nm+WX+gY/QK61Dd+xlYkeVdnnF5BXXzGTHXx+hzNpq2IMyut24L3Thu43jDX7Wvu71W8l1h3J35n7RfQ5furk+d5jsexe9iQzz/Meaep9nejnraiv+I4uC4vN418s/jHvqt0VZDdzUUh87fMPE3fGxNgZS5db7puefPSpYhv+G7RJQ==
+   eJxzkmBgcKIz3ijFwPAIijdJYYqhy8HwYyA/XYgBDB5C1YDEYIBLAEJvRtOHDC4B5S4j6QGZ95Mf1Uxs+kD8w1KoYheB+iJZEW6C6YOZDxNHB9eA+m4C8RV+VH3o5juwIdhebKjuZmHH1IfLPmTwUAq/fchmwNjo/kO376IUJFxxYVz2occTLnwQSR/IrkNE6iMHAwAl5UuC
   </data>
  </layer>
- <layer name="Walkable" width="30" height="30">
+ <layer name="Walkable" width="14" height="14">
   <data encoding="base64" compression="zlib">
-   eJztkrsNwDAIRDNG1vD+y6VyY8Xg+0CanOTCEsfTAeO+rmF4U6zvxMvIxUUzubJ07EDtoXLZvCp7+ti8CveLvIrfnRfppewHlXPOrjw/t48b7T27m7c/yl09rBBelMUxNyZPFVfts6vfeau42aw6uJFc3NUT8aq4Wf8KrlqHcpH6tS77Z7Un7EjMfZ5ykRvp5Fa9B+N1u1o=
+   eJwzlGBgMBzmGATQaRggpA9ZHTrAZgc19KGzsZmBTw5fGGDzHy7zcZmHTZ4UfbjcQ2xcEAKUpBUASvEkyg==
   </data>
  </layer>
- <objectgroup name="Mapevents" width="30" height="30">
-  <object name="harbor_inn_entry" type="mapchange" x="512" y="288" width="32" height="32">
-   <properties>
-    <property name="map" value="blue_waters_city_harbor_inn"/>
-    <property name="place" value="entry"/>
-   </properties>
-  </object>
-  <object name="harbor" type="mapchange" x="64" y="32" width="96" height="96">
-   <properties>
-    <property name="map" value="crossglen"/>
-    <property name="place" value="test"/>
-   </properties>
-  </object>
-  <object name="runway_from_harbor" type="mapchange" x="928" y="672" width="32" height="64">
-   <properties>
-    <property name="map" value="blue_waters_city_east_isles"/>
-    <property name="place" value="runway_to_harbor"/>
-   </properties>
-  </object>
-  <object name="west_runway" type="mapchange" x="0" y="864" width="32" height="32">
-   <properties>
-    <property name="map" value="blue_waters_city_west_isles"/>
-    <property name="place" value="runway"/>
-   </properties>
-  </object>
-  <object name="harbor_large_boat" type="mapchange" x="0" y="544" width="32" height="192">
-   <properties>
-    <property name="map" value="blue_waters_city_west_isles"/>
-    <property name="place" value="boat"/>
-   </properties>
-  </object>
-  <object name="ship_to_south_west_isles" type="sign" x="64" y="512" width="96" height="32"/>
-  <object name="harbor_fisher_house_entry" type="mapchange" x="160" y="832" width="32" height="32">
-   <properties>
-    <property name="map" value="harbor_fisher_house"/>
-    <property name="place" value="harbor_fisher_house_entry"/>
-   </properties>
-  </object>
-  <object name="harbor_thieves_house_entry" type="mapchange" x="512" y="832" width="32" height="32">
-   <properties>
-    <property name="map" value="blue_waters_city_harbor_thieves_house"/>
-    <property name="place" value="harbor_thieves_house_entry"/>
-   </properties>
-  </object>
-  <object name="harbor_small_house_entry" type="mapchange" x="704" y="832" width="32" height="32">
-   <properties>
-    <property name="map" value="harbor_small_house"/>
-    <property name="place" value="harbor_small_house_entry"/>
-   </properties>
-  </object>
-  <object name="harbor_hut_entry" type="mapchange" x="768" y="608" width="32" height="32">
-   <properties>
-    <property name="map" value="harbor_hut"/>
-    <property name="place" value="harbor_hut_entry"/>
-   </properties>
-  </object>
-  <object name="harbor_inn_upper_floor_entry" type="mapchange" x="800" y="192" width="32" height="32">
-   <properties>
-    <property name="map" value="harbor_inn_upper_floor"/>
-    <property name="place" value="harbor_inn_upper_floor_entry"/>
-   </properties>
-  </object>
- </objectgroup>
- <objectgroup name="Spawn" width="30" height="30"/>
- <objectgroup name="Keys" width="30" height="30"/>
- <objectgroup name="Replace" width="30" height="30"/>
+ <objectgroup name="Mapevents" width="14" height="14"/>
+ <objectgroup name="Spawn" width="14" height="14"/>
+ <objectgroup name="Keys" width="14" height="14"/>
+ <objectgroup name="Replace" width="14" height="14"/>
 </map>
