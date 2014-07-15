@@ -216,6 +216,12 @@
     <property name="place" value="harbor_thieves_house_entry"/>
    </properties>
   </object>
+  <object name="harbor_thieves_house_upper_floor" type="mapchange" x="160" y="32" width="32" height="64">
+   <properties>
+    <property name="map" value="blue_waters_city_harbor_thieves_house_upper_floor"/>
+    <property name="place" value="harbor_thieves_house_upper_floor"/>
+   </properties>
+  </object>
  </objectgroup>
  <objectgroup name="Spawn" width="14" height="14"/>
  <objectgroup name="Keys" width="14" height="14"/>

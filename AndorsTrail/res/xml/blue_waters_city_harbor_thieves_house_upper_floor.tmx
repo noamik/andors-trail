@@ -201,7 +201,7 @@
  </layer>
  <layer name="Above" width="14" height="14">
   <data encoding="base64" compression="zlib">
-   eJxzkmBgcKIz3ijFwPAIijdJYYqhy8HwYyA/XYgBDB5C1YDEYIBLAEJvRtOHDC4B5S4j6QGZ95Mf1Uxs+kD8w1KoYheB+iJZEW6C6YOZDxNHB9eA+m4C8RV+VH3o5juwIdhebKjuZmHH1IfLPhgQZof4EZ99yGbA2Oj+Q7fvohQkXHFhXPahxxMufBBJH8iuQ0TqIwcDAEOGS5w=
+   eJxzkmBgcKIz3ijFwPAIijdJYYqhy8HwYyA/XYgBDB5C1YDEYIBLAEJvRtOHDC4B5S4j6QGZ95Mf1Uxs+kD8w1KoYheB+iJZEW6C6YOZDxNHB9eA+m4C8RV+VH3o5juwIdhebKjuZmHH1IfLPhgQZof4EZ99yGbA2Oj+Q7fvIpAfBtRbB8TxQFwJxJFskLC+hMc+9HjChQ8i6QPZdYhIfeRgAGkISSM=
   </data>
  </layer>
  <layer name="Walkable" width="14" height="14">
@@ -209,7 +209,14 @@
    eJwzlGBgMBzmGATQaRggpA9ZHT59yGL49KHrxaYPnY3NDHxy+PyCSwwfwBcu+PTjcwMudxITF4QAJWkFAH5FJMo=
   </data>
  </layer>
- <objectgroup name="Mapevents" width="14" height="14"/>
+ <objectgroup name="Mapevents" width="14" height="14">
+  <object name="harbor_thieves_house_upper_floor" type="mapchange" x="160" y="128" width="32" height="64">
+   <properties>
+    <property name="map" value="blue_waters_city_harbor_thieves_house"/>
+    <property name="place" value="harbor_thieves_house_upper_floor"/>
+   </properties>
+  </object>
+ </objectgroup>
  <objectgroup name="Spawn" width="14" height="14"/>
  <objectgroup name="Keys" width="14" height="14"/>
  <objectgroup name="Replace" width="14" height="14"/>
