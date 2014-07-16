@@ -645,6 +645,7 @@
 		<item>@xml/blue_waters_city_harbor</item>
 		<item>@xml/blue_waters_city_harbor_hut</item>
 		<item>@xml/blue_waters_city_harbor_inn</item>
+		<item>@xml/blue_waters_city_harbor_inn_upper_floor</item>
 		<item>@xml/blue_waters_city_harbor_small_house</item>
 		<item>@xml/blue_waters_city_harbor_thieves_house</item>
 		<item>@xml/blue_waters_city_harbor_thieves_house_upper_floor</item>
