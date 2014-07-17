@@ -243,7 +243,7 @@
   <object name="ship_to_south_west_isles" type="sign" x="64" y="512" width="96" height="32"/>
   <object name="harbor_fisher_house_entry" type="mapchange" x="160" y="832" width="32" height="32">
    <properties>
-    <property name="map" value="harbor_fisher_house"/>
+    <property name="map" value="blue_waters_city_harbor_fisher_house"/>
     <property name="place" value="harbor_fisher_house_entry"/>
    </properties>
   </object>

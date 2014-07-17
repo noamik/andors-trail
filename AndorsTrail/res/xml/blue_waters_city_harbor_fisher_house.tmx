@@ -196,20 +196,27 @@
  </layer>
  <layer name="Objects" width="10" height="15">
   <data encoding="base64" compression="zlib">
-   eJzbKMXA8IgA3gTEh4EYBiTZGbCCzUjqJgpA1G2Qg+DH/AwMO4H4ACtCHQ9QHS8Qa0LN62RiYHgKVHMSiC8gqZMBysmi2eUHlPcH4gBWVHvxAZi6fSwMDD0C2NX8EUCoOwdUNwmHOh5BhLp7QHWxrITtxQf2E+mP80SoE2djYJBgQ6j7AtTzFYv71IFqHkoh1LEA+axALMqG2x8HgfgSGr4MdctFKP8QEAMAwng7SA==
+   eJzbKMXA8IgA3gTEh4EYBiTZGbCCzUjqJgpA1G2Qg+DH/AwMO4H4ACtCHQ9QHS8Qa0LN62RiYHgKVHMSiC8gqZMBysmi2eUHlPcH4gBWVHvxAZi6fSwMDD0C2NX8EUCoOwdUNwlN3Vsg/w0Q8wgi1N0DqotlJWwvPrCfSH+cJ1KdBBtC3Regnq9Y3KcOVPNQCqGOBchnBWJRNtz+OAjEl9DwZahbLkL5h4AYAPeAPSQ=
   </data>
  </layer>
  <layer name="Above" width="10" height="15">
   <data encoding="base64" compression="zlib">
-   eJxzkmBgcCIBH5RiYLgMxDBwEcg+JIVd7WEkdZtxqNkIFH+MpO4hkL1JCr8aXGqxqUFWC1NHCMDUXcZj3sUBshdZHXpcILttGyv+eAOBHUA1O1kx4wSb2oc44g85npHjGAC/SDEn
+   eJxzkmBgcCIBH5RiYLgMxDBwEcg+JIVd7WEkdZtxqNkIFH+MpO4hkL1JCr8aXGqxqUFWC1OHDdwRYGC4LwBhw9RdxmPeRSrZiwyIsRdZHXpcwIA4GwPDNlb88QYCO4BqdrJixgk2tQ9xxB9yPCPHMQDA1jI0
   </data>
  </layer>
  <layer name="Walkable" width="10" height="15">
   <data encoding="base64" compression="zlib">
-   eJxjYBgFo4D6AAACWAAB
+   eJwzlGBgMBwiGBkQkscGkNURax42dcSYh8teQmpooQ6fenLDGldYwTAA81YaPQ==
   </data>
  </layer>
- <objectgroup name="Mapevents" width="10" height="15"/>
+ <objectgroup name="Mapevents" width="10" height="15">
+  <object name="harbor_fisher_house_entry" type="mapchange" x="192" y="448" width="32" height="32">
+   <properties>
+    <property name="map" value="blue_waters_city_harbor"/>
+    <property name="place" value="harbor_fisher_house_entry"/>
+   </properties>
+  </object>
+ </objectgroup>
  <objectgroup name="Spawn" width="10" height="15"/>
  <objectgroup name="Keys" width="10" height="15"/>
  <objectgroup name="Replace" width="10" height="15"/>
