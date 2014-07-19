@@ -642,6 +642,8 @@
 		
 		<!-- my maps -->
 		<item>@xml/blue_waters_city_east_isles</item>
+		<item>@xml/blue_waters_city_east_isles_big_stone_house</item>
+		<item>@xml/blue_waters_city_east_isles_big_stone_house_upper_floor</item>
 		<item>@xml/blue_waters_city_east_isles_church</item>
 		<item>@xml/blue_waters_city_east_isles_stone_house</item>
 		<item>@xml/blue_waters_city_east_isles_stone_house_basement</item>

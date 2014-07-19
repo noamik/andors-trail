@@ -210,7 +210,7 @@
   </data>
  </layer>
  <objectgroup name="Mapevents" width="10" height="13">
-  <object name="east_isles_big_house_entry" type="mapchange" x="128" y="384" width="64" height="32">
+  <object name="east_isles_big_house_entry" type="mapchange" x="160" y="384" width="32" height="32">
    <properties>
     <property name="map" value="blue_waters_city_east_isles"/>
     <property name="place" value="east_isles_big_house_entry"/>
@@ -226,6 +226,12 @@
    <properties>
     <property name="map" value="blue_waters_city_east_isles_big_stone_house_basement"/>
     <property name="place" value="big_stone_house_basement"/>
+   </properties>
+  </object>
+  <object name="east_isles_big_house_entry2" type="mapchange" x="128" y="384" width="32" height="32">
+   <properties>
+    <property name="map" value="blue_waters_city_east_isles"/>
+    <property name="place" value="east_isles_big_house_entry"/>
    </properties>
   </object>
  </objectgroup>
