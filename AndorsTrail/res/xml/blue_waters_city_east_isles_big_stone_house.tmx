@@ -201,10 +201,10 @@
  </layer>
  <layer name="Above" width="10" height="13">
   <data encoding="base64" compression="zlib">
-   eJzbKMXA8AgP3gTEThIMDIelIBgGohkR/GhxBoaHULW41IHUxIhDzNoMVfMYTR2MnyMOoTejmQVThwwc2BDqshgROJsRlQ/Cm7G4Dx2A1CCrUxEgrO4xDvNOCEDCBaTuoBTErfjAIWhYXwbSdljUHgWaN00AogaEQWZexmL3RSmEWegYpN4EizgAIco30g==
+   eJzbKMXA8AgP3gTEThIMDIelIBgGohkR/GhxBoaHULW41IHUxIhDzNoMVfMYTR2MnyMOoTejmQVThwwc2BDqshgROJsRlQ/Cm7G4Dx2A1CCrUxEgrO4xDvNOCEDCBaTuoBTErfjAIWhYXwbSdljUHgWaN00AogaEQWZexmL3RSmEWejYVAIijy4OAB82N9E=
   </data>
  </layer>
- <layer name="Walkable" width="10" height="13">
+ <layer name="Walkable" width="10" height="13" visible="0">
   <data encoding="base64" compression="zlib">
    eJwzlGBgMBxADAPY2OhqcAFsZmKj8bmBWLfiYhPrD2z+weYGXP7E5V9CYYItvJExAL/tGIc=
   </data>
