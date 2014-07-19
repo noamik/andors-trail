@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.0" orientation="orthogonal" width="8" height="11" tilewidth="32" tileheight="32">
+<map version="1.0" orientation="orthogonal" width="15" height="15" tilewidth="32" tileheight="32">
  <tileset firstgid="1" name="map_bed_1" tilewidth="32" tileheight="32">
   <image source="../drawable/map_bed_1.png" width="512" height="256"/>
  </tileset>
@@ -189,47 +189,35 @@
  <tileset firstgid="7833" name="map_window_2" tilewidth="32" tileheight="32">
   <image source="../drawable/map_window_2.png" width="512" height="256"/>
  </tileset>
- <layer name="Ground" width="8" height="11">
+ <layer name="Ground" width="15" height="15">
   <data encoding="base64" compression="zlib">
-   eJwT52ZgkMCBJYFYHIiNZLBjYuWdZLBjmLwZFwNDtziERsbI8sh4hzh++RNI8iB3oMvfgMrD3IkuD8NGUHfikgfJfeRCYJg4shgADqwcLg==
+   eJyz4GJgsKAAb5TBjXHJw/TeYmVgOCCDwH3iCDZI/gqa/AEkva+AcsZcEAzSZ8GF4IPseIIkD8MwvchiMDOR+ej6cOk1xiFGS73ExAkuvYTiZaMMbr3I4Y8eJzBMyL8g8w8D4+UING6OERlHxtC0QExYgexAV4stLcDwJaDcRVaIvgM40g06PgRUc5AV4pfD0DT6hYt8DABquWeD
   </data>
  </layer>
- <layer name="Objects" width="8" height="11">
+ <layer name="Objects" width="15" height="15">
   <data encoding="base64" compression="zlib">
-   eJxzkmBgcCKAJbgZwICdnYGBg50BDpDlU+UYGMSBchLsELa8AEI+SpyBoRQopg6U02CHsPXR5JHBJhYGhjv8CPksJPlDQLnjQL2HWRDyyAAkfxBN/rEUqjwIIMvzC6KasZkF1X/YQKsAZjihhwsIAwC/8xqU
+   eJxzkmBgcKIAo4M6cQQbmzxMHF0Opq+ADYJh8n9ZGRj+AfF/IGZgw20vSKyBDYJBQAxI8wIxHxDzA7EADr3zxCFiikB5ZaheNTbcbv7IiimuBFT/Bih+hxVTH7JeRqi5+4Dq9rNCxD6zQjAuANMryIbKJyZO8IUVIYCs9z4rqvhmIH8LEF8G4m1Y3I6s9z0rxL+/0dQ9hvK/YQlPZPedA8o/gqr5iSecsOklBVBDL7kYAEYdMzo=
   </data>
  </layer>
- <layer name="Above" width="8" height="11">
+ <layer name="Above" width="15" height="15">
   <data encoding="base64" compression="zlib">
-   eJzbKMXA8AgH3gTEh4H4MQ75zVB5EwkGMFgpwMDQKcAABzB5XABd/iHULlL0HwTiy1jUXASKHQJiJ6Db/gtgyj+EyjlJYDe7VAAhj8t8mDwMg8LBFE0MAII6Jhg=
+   eJxzkmBgcCITb5QiT98moL7DZOrdPKp32Os9SKbeQ2TqG2gMAKOQWac=
   </data>
  </layer>
- <layer name="Walkable" width="8" height="11" visible="0">
+ <layer name="Walkable" width="15" height="15" visible="0">
   <data encoding="base64" compression="zlib">
-   eJwzlGBgMKQxBgFC8tgALnl0MymVR1dDSD8u/2CTAwCaCA+w
+   eJwzlGBgMKQiBgFy9ZGqFxlQWx86IFY/NkBM+OAC5IQtul5SwgibXnLjkFQ7sbkZX9gTCitkcWL0EGMHsX4iBQMAJoAsfQ==
   </data>
  </layer>
- <objectgroup name="Mapevents" width="8" height="11">
-  <object name="east_isles_house_entry" type="mapchange" x="96" y="320" width="64" height="32">
+ <objectgroup name="Mapevents" width="15" height="15">
+  <object name="stone_house_basement" type="mapchange" x="160" y="32" width="32" height="64">
    <properties>
-    <property name="map" value="blue_waters_city_east_isles"/>
-    <property name="place" value="east_isles_house_entry"/>
-   </properties>
-  </object>
-  <object name="stone_house_basement" type="mapchange" x="64" y="128" width="32" height="32">
-   <properties>
-    <property name="map" value="blue_waters_city_east_isles_stone_house_basement"/>
+    <property name="map" value="blue_waters_city_east_isles_stone_house"/>
     <property name="place" value="stone_house_basement"/>
    </properties>
   </object>
-  <object name="stone_house_upper_floor" type="mapchange" x="32" y="96" width="32" height="32">
-   <properties>
-    <property name="map" value="blue_waters_city_east_isles_stone_house_upper_floor"/>
-    <property name="place" value="stone_house_upper_floor"/>
-   </properties>
-  </object>
  </objectgroup>
- <objectgroup name="Spawn" width="8" height="11"/>
- <objectgroup name="Keys" width="8" height="11"/>
- <objectgroup name="Replace" width="8" height="11"/>
+ <objectgroup name="Spawn" width="15" height="15"/>
+ <objectgroup name="Keys" width="15" height="15"/>
+ <objectgroup name="Replace" width="15" height="15"/>
 </map>

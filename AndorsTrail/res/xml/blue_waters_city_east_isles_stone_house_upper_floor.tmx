@@ -191,40 +191,28 @@
  </tileset>
  <layer name="Ground" width="8" height="11">
   <data encoding="base64" compression="zlib">
-   eJwT52ZgkMCBJYFYHIiNZLBjYuWdZLBjmLwZFwNDtziERsbI8sh4hzh++RNI8iB3oMvfgMrD3IkuD8NGUHfikgfJfeRCYJg4shgADqwcLg==
+   eJwrEmVg+CiDHZcB5YqA2EgGO4bJO8lgxzB5CW7seDDIg/yBS94I6g9c8iA5cVkgGweWBGIAIoYbpQ==
   </data>
  </layer>
  <layer name="Objects" width="8" height="11">
   <data encoding="base64" compression="zlib">
-   eJxzkmBgcCKAJbgZwICdnYGBg50BDpDlU+UYGMSBchLsELa8AEI+SpyBoRQopg6U02CHsPXR5JHBJhYGhjv8CPksJPlDQLnjQL2HWRDyyAAkfxBN/rEUqjwIIMvzC6KasZkF1X/YQKsAZjihhwsIAwC/8xqU
+   eJxzkmBgcCKA5QQYGFLlGOAAxobJg0ApVGwHP4QtwYYqDwMngPLqQDkNHPIg8JaVgeEdK0I+SpyBQZARUx1MngkoJ4ZHHgYeSjEwHGVDYJh8KFBuJwtCXTwQJyDpTwWyDwLlL0pB5POBuICBcLiBMACX9RsJ
   </data>
  </layer>
  <layer name="Above" width="8" height="11">
   <data encoding="base64" compression="zlib">
-   eJzbKMXA8AgH3gTEh4H4MQ75zVB5EwkGMFgpwMDQKcAABzB5XABd/iHULlL0HwTiy1jUXASKHQJiJ6Db/gtgyj+EyjlJYDe7VAAhj8t8mDwMg8LBFE0MAII6Jhg=
+   eJzbKMXA8AgH3gTEh4F4IxIfmb0ZKg/CIADji7MxMDxEkn8MlX8IZd9lZWC4x4qQB4EDrAwYACZ/CIgvAOUvAunLUPUXoeYfhKr5ATVvKxsCg/Q5SUDsTORgYEjiQDUfJAfCIFAIlCvCI98IlGviQNiPLI8PAwA12zLI
   </data>
  </layer>
  <layer name="Walkable" width="8" height="11" visible="0">
   <data encoding="base64" compression="zlib">
-   eJwzlGBgMKQxBgFC8tgALnl0MymVR1dDSD8u/2CTAwCaCA+w
+   eJwzlGBgMKQxRgaE5LGpgYkRq45U+9HVkSuPDQMAzfsTZQ==
   </data>
  </layer>
  <objectgroup name="Mapevents" width="8" height="11">
-  <object name="east_isles_house_entry" type="mapchange" x="96" y="320" width="64" height="32">
+  <object name="stone_house_upper_floor" type="mapchange" x="32" y="160" width="32" height="32">
    <properties>
-    <property name="map" value="blue_waters_city_east_isles"/>
-    <property name="place" value="east_isles_house_entry"/>
-   </properties>
-  </object>
-  <object name="stone_house_basement" type="mapchange" x="64" y="128" width="32" height="32">
-   <properties>
-    <property name="map" value="blue_waters_city_east_isles_stone_house_basement"/>
-    <property name="place" value="stone_house_basement"/>
-   </properties>
-  </object>
-  <object name="stone_house_upper_floor" type="mapchange" x="32" y="96" width="32" height="32">
-   <properties>
-    <property name="map" value="blue_waters_city_east_isles_stone_house_upper_floor"/>
+    <property name="map" value="blue_waters_city_east_isles_stone_house"/>
     <property name="place" value="stone_house_upper_floor"/>
    </properties>
   </object>
