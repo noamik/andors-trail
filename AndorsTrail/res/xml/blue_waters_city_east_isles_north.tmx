@@ -191,88 +191,25 @@
  </tileset>
  <layer name="Ground" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJzFljsvREEUx89ustmEDQr3LskulW8g0XgVii28Kb1taFQifACFR7wqu0RQ2fVoUKgU7NIpPD6CFl8A8b9Zkx2TO7Mz14bilzl37pz55eTOnZlYCVHsH5gpy7HrI9oD+z73cachorNfch4y914h55rjqVIflpMp4M26IHqfK/XR9erUWwyv05p6XyJErxq8RdReGWw9PQved8z3ocGnwqtyi3UyDsqJUhqkwXGY6CT8915VvTK3zLuJ+RIaJD167zH2gSPg//lciNsA0UUgFz8aeEUsv/zdpeRfUO2TuuOL6dUdW0yvKX/lFc+hOr/8vLnz5eMem6gX9IF+233ucClRlUAGazAbkP9HhRiFawyMg7iBl8G8jcht4WgCzUJfq533LiBeBEtg2dBbzXkHkDvMMQiGhL4RzptAnARbYFvhnbTcYd525HZxdIBOoa+b86YQp8F8kOhI4Z2z3PFaLw+/P5rWu4I51zlWwZrQt+HBW6jeHVuPYnvZ9zq0c99LfGat6Gyz1N4Fyx2ZV+ZnvgbkpkA/mLDk3rIoUblARdS7tx73m2n44mBW4Y3CUfONs/adtpbzZjBPFtxEfsaxYD6+4e5SU+hvi+QRnc7eoLNveMGpmWF6Loj3DRNU9f4XX+HH6Oc=
+   eJytlj1Ow0AQRp0uwlKqUGGfgGoTkT6xsGidnAAouAB3SAlcALgDSkQfgzgWu7KHTD7PjtcriicrsWefv/21mSTJvWV2dsp3miTGXo29lpaCfkewtLXXljlrQ3JizZVl09Z8TIfhaipbuwA3OiWvy0rtHAZCdeQumPfhXIZ7sZ1QqI63ZQTnlvGfedG7Bdcua9hnct5Y0EsectUtX+B9ypPkOR/uczUveddbCy5pXr3a2rf86Ne4GB99ruY9P11PswBK9uyc+TUux8wHbbk1uR7AIuBdsa8kl9sHdqm8fpF92qy/kHfj3hgX8jnth8+bTvZIfqb9SF5fzrXdnzfCHt0ha/Bldfckr9RWZX03bn5PGr/2Dquswed198pUz1i1jlXr5SwVt5tfvj427NzyOSUfur3ZMxk6LzGrltFHIXipvxEaW3x+7vE9ThqG5Hb9bWAfi/X63L7cVXq6j5WCVxtT7tVyY2b8DloLcyoka19mdON5Ja1XySs5NS/2N50z1L/SPMY+9jnJW4/6cTlXLSHzSXPyvIeRnpefTziumLXPOcT7t54CxjXEi2Ns7O+7FukbX+LWPRfZz+QMdfW5Q52d8Qw4s2Lnlm+fxH2d/6+hraNfp6V2bA==
   </data>
  </layer>
  <layer name="Objects" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJytl8trE0EcxycLm3jQPCQhqCEHxUPVu/oXSHuvIvUB3uytxEsRD9EiFB8ohRRbLYpQD1pQKxVBpEVRhFBak1MVHzSHotbHRRRM9TvMbHf2tzOTbegXvvxmZjfzmfdsyknGhuBWmnKFQ+UZxuYR38A1uG74fd0V5ioZeLwuqseu8CsNO4ps3HJaxJeE251HmSvscetZ4YXNfpr6rYxcDQP3pyvM9SIW9szGYFsaqG8gZ49fsiKu/kbDjcWFP/B2gTMP16R5fks8OMaNbNC837SsQbiePG4fYiYu/N0NjvO0ZD1D7EX5c0fklwuMVZE+XWTsIObnUFqkv6H8Kerpl+nt4O6I67lly3qeA+8XPCv5PbJNf1HnO3AvoP5mQdhLV8EZlOkVeBTr43o+zOUy7aUmeCvwP7KOj2LsuyL4GHwXzHsGbtmwjzeh7Uk4BaeV8RpPMbZ1A2Pb4AJ8B/kzRT8uOyJeRKyRNt8inHMabhasP/hdh2QOyfmtoP5d4O2G98DDyF8q+rHpiMjPmkX4k2Xf67g74+EyVRXHT0/EzO8NO+ZnOu5MJmhdWZRn6juq+F663eKcpudY1GcmRWGut9bC1N0XumcP4IfwpKUuztTdY5NYf4/gTrIfuUx7letE3k/bdAXuJv0oI/86Jfbd4Qh1tKObSpqf7aoWI3Crlv1h033Ls/58mDtRDOb5GU3LuE4lhEsyUk23aFe74zyQEPbSVHNtcumc2NSjqePjGrhLxWCk5TZuhfiH5j21Lx6Xz9GsI+I1x58/6rpy/nt3NeeOE7MW86f29z14Y7JvNHrn/oLm3uHcKeLLduwqN8o9z+/4zwr3OL7v+nL6esc0ZSVl/an9HZH3OY8d+J7ai/f2wfsTokzVEc0aVmW7R57gzPpKxq0px/MG4gFZd2dCf7+ezYlv2vOGPpvEz8r1OCeXSJuuJsPfyqr5s5Nwb5seBG8U4/+bcE3/j1S1+n6Iasr9D5gYAE8=
+   eJy1lrsvPUEUx0f1u8lN/OJuRC6ClihEIlrvRCi8Eq5HUCGIx6/4UeIvQIdGtBQUeiFUCo+OKMXrj/A92TO5s2Nmd3bxTU7m7Ozs+dwze+bsFSKo47QQJ2lhVFeZP45iHId18jWNY3w9wffmYPM8r+vKMHcG5pAnRA721zNz42g+gvsfjBXP505jnPGScVxE3FXOaadYiN3ioP+T3IdMkKuzSIcYj36Y+6hxjzQWKVvhj7/JlQw5kkrZ71a4rZhrU9a4Sj6n7nNviRA1HKtaxvSC96X6cX+gIsg3+aUp/7o8FXxOzTeJZBybX8O82tT3OHFUjzPYAWuBtVt6D+kJud+mo22kyJ3dgPV9bLpkvDvYdci+V+JdV3EvIVUpdWXzSYNZ9Dy2XNafO0eM9xjv+C2T59Yp8W0+KYf9GYY1gjmTzecYV8RVa9eUa5MyNwXWNGzS8/N8S1jLxFVr18TtwdhMv4/rQX2XSXXDMda4vmx73MFcyvElE147rvrIBPe7Hj1l5M/XPtbvmONWoW/bhdFridsLRh9zZsFtht+icCnX5xh5rjmw5X6H6dwh102N48J+Vs5VEi4x1w2MDcf9XsC3atHwnQzj2phxuLpkL7Vxw5iSe6r04x3YLmxP5OdN3DnPfl6jmJJLuiiwm0nyzOq17MKU3EvO6waMO9h9Qd4nmfIl7qvh/PxzYJLinKcx/m8y6tnfqyuX5FJb1AMlP6wP7yPWskO8Jaw5iPEbXRSV828wSVE5u+xvUuk5fwLKPqFF
   </data>
  </layer>
  <layer name="Above" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJy9Vr1OwzAQdiMSylRSaKgyMLJDixg6UdiyIWBh4h1YGZCQWOABWHgCli6RGCveoIiJAbUZK4TKz4QQnOWYXFzHsUPgkz6dY8f+fPbZZ0L08GoT8mLn/7e3JK9/g77vGv3LxoxDiA2887P/uW+mvzsZPuThYZHZgZ/o3Qq6E5vRBKcNtR1bzHabiZ6oW3EYH0E7dJnPmBwdV39eH4LugjOtO6wSMgJG1el1xghi3SH0H2lS5a8KkcG/MhTV/YGTFHX9jX7hr4hAEt/PsJfHy6xM7VP8fW6Vp8txaSXlLyhfgM64zuxn/B3a5enyGMSk8Si28TqqxfV0YwWfpdCdrtNpk51HE/B+srtO1VYW8B6J9whvW/UIWQO2gG2vfN0gQ3cTtLrALeC2hi7PYzc1Zncl9yKOjQM3uw0D54YsnMznz88U+Cz9J/5al67nQBg/qpnr6uwLBh2fkva5ju9ND+71nm+WX+gY/QK61Dd+xlYkeVdnnF5BXXzGTHXx+hzNpq2IMyut24L3Thu43jDX7Wvu71W8l1h3J35n7RfQ5furk+d5jsexe9iQzz/Meaep9nejnraiv+I4uC4vN418s/jHvqt0VZDdzUUh87fMPE3fGxNgZS5db7puefPSpYhv+G7RJQ==
+   eJxjYCANxEszMCQAcSyUtgPiGCg/HomdgMRGB9uxiCEDGwLy5AJke2eJMjDMFsVk09peWoHLUsTZi00dtQE2ew9T2V5i/QGzl1ppilh/PIaq86GxvdaC+Pm4xIgFj3HY6y0ICVMYRufDxKjttmhBSJjCMDrfRxq7O/C5zRLItoLydwLldmGJs41CuN10GCpHalx7Au30gtp7Eqj3FAn6gylIV5SkB1IBcrpFTw/kAiMR0uylNtiMLy1gsfcIHvXUAjB7QXErK8zAICdMfTuwlaGw8oFacYsN4MtX0TS0t1IY0d6BAXrkHWztJlqGLwzkAO3MBWJbNLutqVSHzcQhTqsw3UbAXFqF6VUJBI2MrwHxZUbaptmBAiB/4QMH6VAGjgLKAQD0PkHZ
   </data>
  </layer>
- <layer name="Walkable" width="30" height="30" visible="0">
+ <layer name="Walkable" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztkrsNwDAIRDNG1vD+y6VyY8Xg+0CanOTCEsfTAeO+rmF4U6zvxMvIxUUzubJ07EDtoXLZvCp7+ti8CveLvIrfnRfppewHlXPOrjw/t48b7T27m7c/yl09rBBelMUxNyZPFVfts6vfeau42aw6uJFc3NUT8aq4Wf8KrlqHcpH6tS77Z7Un7EjMfZ5ykRvp5Fa9B+N1u1o=
+   eJztk1EOwCAIQz2G1/D+l9s+F1MFatEtGQnZ4oivBdZqKe1OT7TK5egedP58ZnBnGtB3BTtS/3O/x0X3oZ3K4EbDy1Dx1LGrT4i7qmm0g/07o4flWp48OlSzYP81j1+ldqY+qj3qHdUwPA+3Z7C99fItzgmukmnNMJuLdmWmY5e/VaYiVP3szzOYFjfLq2cGMw1qViSU/t7Q79W8ACvDnfs=
   </data>
  </layer>
- <objectgroup name="Mapevents" width="30" height="30">
-  <object name="harbor_inn_entry" type="mapchange" x="512" y="288" width="32" height="32">
-   <properties>
-    <property name="map" value="blue_waters_city_harbor_inn"/>
-    <property name="place" value="entry"/>
-   </properties>
-  </object>
-  <object name="harbor" type="mapchange" x="64" y="32" width="96" height="96">
-   <properties>
-    <property name="map" value="crossglen"/>
-    <property name="place" value="test"/>
-   </properties>
-  </object>
-  <object name="runway_from_harbor" type="mapchange" x="928" y="672" width="32" height="64">
-   <properties>
-    <property name="map" value="blue_waters_city_east_isles"/>
-    <property name="place" value="runway_to_harbor"/>
-   </properties>
-  </object>
-  <object name="west_runway" type="mapchange" x="0" y="864" width="32" height="32">
-   <properties>
-    <property name="map" value="blue_waters_city_west_isles"/>
-    <property name="place" value="runway"/>
-   </properties>
-  </object>
-  <object name="harbor_large_boat" type="mapchange" x="0" y="544" width="32" height="192">
-   <properties>
-    <property name="map" value="blue_waters_city_west_isles"/>
-    <property name="place" value="boat"/>
-   </properties>
-  </object>
-  <object name="ship_to_south_west_isles" type="sign" x="64" y="512" width="96" height="32"/>
-  <object name="harbor_fisher_house_entry" type="mapchange" x="160" y="832" width="32" height="32">
-   <properties>
-    <property name="map" value="blue_waters_city_harbor_fisher_house"/>
-    <property name="place" value="harbor_fisher_house_entry"/>
-   </properties>
-  </object>
-  <object name="harbor_thieves_house_entry" type="mapchange" x="512" y="832" width="32" height="32">
-   <properties>
-    <property name="map" value="blue_waters_city_harbor_thieves_house"/>
-    <property name="place" value="harbor_thieves_house_entry"/>
-   </properties>
-  </object>
-  <object name="harbor_small_house_entry" type="mapchange" x="704" y="832" width="32" height="32">
-   <properties>
-    <property name="map" value="blue_waters_city_harbor_small_house"/>
-    <property name="place" value="harbor_small_house_entry"/>
-   </properties>
-  </object>
-  <object name="harbor_hut_entry" type="mapchange" x="768" y="608" width="32" height="32">
-   <properties>
-    <property name="map" value="blue_waters_city_harbor_hut"/>
-    <property name="place" value="harbor_hut_entry"/>
-   </properties>
-  </object>
-  <object name="harbor_inn_upper_floor_entry" type="mapchange" x="800" y="192" width="32" height="32">
-   <properties>
-    <property name="map" value="blue_waters_city_harbor_inn_upper_floor"/>
-    <property name="place" value="harbor_inn_upper_floor_entry"/>
-   </properties>
-  </object>
-  <object name="harbor_small_house_entry2" type="mapchange" x="704" y="864" width="32" height="32"/>
- </objectgroup>
+ <objectgroup name="Mapevents" width="30" height="30"/>
  <objectgroup name="Spawn" width="30" height="30"/>
  <objectgroup name="Keys" width="30" height="30"/>
  <objectgroup name="Replace" width="30" height="30"/>
