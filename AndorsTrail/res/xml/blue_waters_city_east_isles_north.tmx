@@ -222,7 +222,7 @@
     <property name="place" value="path_north_to_north_west"/>
    </properties>
   </object>
-  <object name="north_beach" type="mpachange" x="0" y="64" width="32" height="32">
+  <object name="north_beach" type="mapchange" x="0" y="64" width="32" height="32">
    <properties>
     <property name="map" value="blue_waters_city_east_isles_north_west"/>
     <property name="place" value="north_beach"/>
