@@ -272,6 +272,12 @@
    </properties>
   </object>
   <object name="harbor_small_house_entry2" type="mapchange" x="704" y="864" width="32" height="32"/>
+  <object name="boat_harbor_to_north_east_isle" type="mapchange" x="544" y="0" width="96" height="32">
+   <properties>
+    <property name="map" value="blue_waters_city_east_isles_north"/>
+    <property name="place" value="boat_harbor_to_north_east_isle"/>
+   </properties>
+  </object>
  </objectgroup>
  <objectgroup name="Spawn" width="30" height="30"/>
  <objectgroup name="Keys" width="30" height="30"/>

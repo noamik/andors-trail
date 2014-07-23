@@ -191,12 +191,12 @@
  </tileset>
  <layer name="Ground" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztlstNw0AQQHMDxdLe7FNEA0hIMVBAHEBcY4cCQow4wCmyaIEqoIPcCA3wKQBoAGiEGXk32Yxn1j9ygsOTrWRm38ysf5nqdDLNabcZmVqnbo4rbuw3q6kP654zVKlv6ufes5pudE6BsFukrE502l7E1BwKNS9zBSfntXOME0mBC8uNuRPGz/V46Reh3qHOmVnOsLfCuG/81boTa9+4Hm/9ItJ+zBin7ba9KpDpw/8PkLMgcL0aL+c0oPfFy2N3Ahn0PkH8s+ZqKz+K++JwGg68fN29QKaPtVkc6yPXa1Xvkfa+wfk7wwcwgJhDICZw3lf4PYKc3e38KDHW3k84v4b5ffXW+dbeIbDwivcRnTGuhfGRNZcypLgT7eXuXzpj9I6Y2TQlqeC9qwDWlTKzQx717A00ZgSuWBW99w7mGnSmjLMMdEaKv6bmDi/XXx32lfy8wDlJfUo9xJpEeA+YmMjh5Xrm+uTWGlg12FCfHZ+Qnk2PtE+p9rrfJ+LzqsJ10dSZkRlJ+/NbTs7r2p+2c6XONt+QbZyb9lLXJtxljrrupuv987f5AXUnXK0=
+   eJzNlstNw0AQQHMDxdLe7FNEA0hINlBAHEBcY4cCQow4wCmyaIEqoIPcCA3wKQBoAGiEGXmXbNYza3uNgcOTrWRm38ysf7no9XLJcd+NXKzTNMcWN/Hdagph3VOCOvXN/MJ70tCNzhkQ9ctU1YlO3YuomiOm5u9cxkl59RzlRDLgTHNj7pTwUz2e+2VM70jmzDVnNFih3Ff+at2ptm9Uj9d+GW4/5oRTd+teEfCE8P8d5CwNqF6Vl3Iq0PvkFbFbAQ96HyD+UXKxURzZfbE4FXtese5OwBNibRqH8kj1Wtd7IL0vcP5K8AYMIWYfSAwo7zP8HkPO9mZx5JhI7zucX8L8PgbrfErvCFh65fvInDGuhfGxNpcquLgj6aXuX3PG6B0Ts3ElreG9qQHWlRGzQ+7l7BVmzBhciSh7by0sJOjMCGcV6IwFfU0tLF6qvybsCv55gXPi+uR6SCQp8x5QMbHFS/VM9UmtNdRq0DF9enxq9Kx6NPvkam/6fcI+r2pcF67O3JgRtz8/5aS8tv1pO1fT2eYbso2za6/p6sJd5Wjqdl3vv/EX/XQ5z9+6P1z5AqCnU90=
   </data>
  </layer>
  <layer name="Objects" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztlj9P20AYxl9KC0hWqXBkoRBkiZGqE7QzhYA6QgJLlE5lBAaKunQMbQc2YKhIuhQGRAkD8AkQEyMgBTUfoKTdYeZ5dWf54tzZDlhd2kd6dJfL6/d3z9n5Q+RrtZe0GnWIXsKvnOb176h/r7lmGWs7hl466bjMzErelIG9HXBc5rKhXmV60rHvI9P+POZugPHVEezRTPus+RjX5CMyZdvkltGv4vjzKHHeFXjMJfrgiLxxdWgRHVliXsV1B3DdFvMoMXMVngb3syPYno7R87cdfv27PjGmXTEWu821V7bPfC3r1dFjf+rz8zRckaXh+q9ZOckddsP3x+LzKcmcM7J+Whk59xenuW8SOgF3oIcoAw/CWbAm3daRNSK5b3F+b/qJCnK9oOSrR9wLFmedR6/nPeL1C4w59MjD4/AEPAvPyb4TgbwL3n0MnGsRdReWb13WNdSMW/5eR6xwc82U4T1Pp5g/TRH1plqZP23BZeUw5g1mjuk9tUbVqSajesa3qH+EPXXAnfBj+Al8g/WulLDp7Ni8tojvlKVMc81lCPekTS73+qXkusb8PLAPrvkT8VxFcT+mifYVV9Ph/eLqXJ6Ficv3qJbg51UVZw5yWVH3KK7W8du3ofn98zKrXM451JUMs6Rh1myfHXw2ktBKG/997qstuAxX4G9kzpq09uAf8D5cpb/DZHG+s2fiGdIxeX3zgXvxnlHVcfKVDGxdP50fcoalhPv917+tO2NTmEo=
+   eJzNl79PFEEUx58gP5KNGPayIeeZTSghViC1wEEs8U4bgpWUQHEQGssDLeiEggA2akGQowD+AkJFiSYY+QMU7bH2+zIz2blhZnfvbiV+k29mdu7t+8yb3b3dIYq00kNWDQdEj+GRoH78A+IXLedUMPbJkcsmG5eZRcmbdLA/Gk7LrDjidaaSjd2MXPNTzF2DsRkI9nChcdZsinPKCTUVG+RuI99OEPWTxPUuwU9CouVA1JtWhx7RkSf6NZx3AF/6op8kZq7AU+C+CQRb6Rg5f/nx57/qFW0+FO1Mlzv2mx8xR2W83ir2am9Uz1UoarkKo2NWSXIHwvj5sXh9qrLOZzJ+Smu57rdBfd4sdALug26iAvwQLoI1Ed5sWUOS+xLr97SPaFqOT2v1XSZcCxbXOotcg93i+BHaEnKU4TF4HH4Ov5B5x41659R1NNZ1BnFfvMi2WtcQM+ZFcx3y4s0xk47flE7Rv5cj6sndZH73BZdVQlt2mDmu3/QYXaeWGvU1/oP4NszpDtwO34U74GuMd+aEXWvH5rF5/KcsFOpjvsZwTxrkcq4fWl0/0T835sExvxPuqyTu6zzRvuZaPj5fWp3LtXBx+RpdZPi86uKaTS4r6Rql1Tu8+9Yt7z9Vs87lOvs7s2FWLcwLP2Kb90YWWmrg26dZbcHb8A78nty1Zq09+DO8D9fodpgsru/svriHbEwe32hxLuoe1Z2mvqqDbctncytrWM043/+mimOP8a+Z/K3Oz7HJV3uNVnKb+xZz/8Jc3hPZ9jjNOs3eiLl/AUnGsfw=
   </data>
  </layer>
  <layer name="Above" width="30" height="30">
@@ -209,7 +209,26 @@
    eJztU8kNACEItIxtw/6b2y8xXIPAR0jmYRbmwHV/a+1BKrjq1KTnLj3vDMKdoYnoor2RDJn778gq1U3WTF2El3Jo+/PyVJSUh/qu0uV8nJ6y7taaieTl+tE75rJrnFGf1r+p9Xu/aXrSLs45hAuFxZmt532/FZqW9g1Ppd/BYPAOfsNqzQg=
   </data>
  </layer>
- <objectgroup name="Mapevents" width="30" height="30"/>
+ <objectgroup name="Mapevents" width="30" height="30">
+  <object name="path_north_to_north_west" type="mapchange" x="928" y="256" width="32" height="64">
+   <properties>
+    <property name="map" value="blue_waters_city_east_isles_north"/>
+    <property name="place" value="path_north_to_north_west"/>
+   </properties>
+  </object>
+  <object name="north_beach" type="mapchange" x="928" y="64" width="32" height="64">
+   <properties>
+    <property name="map" value="blue_waters_city_east_isles_north"/>
+    <property name="place" value="north_beach"/>
+   </properties>
+  </object>
+  <object name="south_beach" type="mapchange" x="928" y="352" width="32" height="64">
+   <properties>
+    <property name="map" value="blue_waters_city_east_isles_north"/>
+    <property name="place" value="south_beach"/>
+   </properties>
+  </object>
+ </objectgroup>
  <objectgroup name="Spawn" width="30" height="30"/>
  <objectgroup name="Keys" width="30" height="30"/>
  <objectgroup name="Replace" width="30" height="30"/>
