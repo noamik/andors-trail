@@ -191,7 +191,7 @@
  </tileset>
  <layer name="Ground" width="6" height="7">
   <data encoding="base64" compression="zlib">
-   eJzLEmNg6EfDKUCcBcTz0DBMfB0aBolXAbEFFyouAYo1YREHiU3CIg4Si5RBYDcuBBsAp0MUrg==
+   eJxLFGNg6EfDKUCcCMTz0DBMfB0aBokXArEFFyouAYo1YREHiU3CIg4Si5RBYDcuBBsAlLMUig==
   </data>
  </layer>
  <layer name="Objects" width="6" height="7">
@@ -204,7 +204,7 @@
    eJxjYMANnCRQMQzs4GdgEGPDFMcF+AkrwQoeSSHYAH0oBAs=
   </data>
  </layer>
- <layer name="Walkable" width="6" height="7">
+ <layer name="Walkable" width="6" height="7" visible="0">
   <data encoding="base64" compression="zlib">
    eJwzlGBgMKQyhgF0Pro4LvXI4jA2AHdtCWo=
   </data>
