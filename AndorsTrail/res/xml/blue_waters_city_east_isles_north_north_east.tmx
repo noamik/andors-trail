@@ -196,12 +196,12 @@
  </layer>
  <layer name="Objects" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJzt1WEKgCAMgNFdQzqodYNuUDewTlLHykFRiIbKtjD2gfSneM2EALSWsgZg8as3st56eo7ZD70wDt++eGEDkVtiYo5g5lITm/z9Y+SZ3HepMbHUPud8/1ozNWvMjy0ukyOqc1yS9KzozYKmtHeZen54+2JWdeWi+Leq3Y7913O2dQB7d1+f5c58AB5fNoA=
+   eJzt1VEKgCAMgOFdQzyodYNuUDewTlLHykG9DA1n2yLwB+ml+JoJAfT+VHAAa1qDs/W2y4vKPvVoGn548GijkMsxsSgwM9fE5nT/lHmm9l1aTKy0zzXfv9UszZrzc0vL1EjqHHOynhW9xdC09m6znx/dvpi1u3ZJ/Fu7rWsfHmD3bVca55xJupyZ37g5v3bmE6DWXI0=
   </data>
  </layer>
  <layer name="Above" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztzUENAAAIBKDrYf8MGs8QvtygAAkAAABXXcnUr3cBkcsDSw==
+   eJztzTEBACAMxMD3Uf8aQB4GmFo27paMSQAAAO52Jat6/e374t8x+R6OdChN
   </data>
  </layer>
  <layer name="Walkable" width="30" height="30">
