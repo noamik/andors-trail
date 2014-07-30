@@ -201,7 +201,7 @@
  </layer>
  <layer name="Above" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJy9Vr1OwzAQdiMSylRSaKk6MLJDixg60bJ1Kz8LE+/AyoCExAIPwMITMEdi5hEQEwMqGSuEys+EEJxlH704bmy3KZ90Ov9/Pvt8Z8bs8O4z9uabx+2v6Ns/YO6nxfy8MRcw5oO0a4zt1vRjHpT21hgbTHhcTrdx3g5Zf+gLccFZJVsPPKGpfZy3R+qFQMgTcEehsJkKohXa7+tL8qJ9S0HSVo5+kbFnkLiYPmeKruTt12G8pVAulTcLcd1+rA6T8v4hGBVt7Y2nsFdFV+Pfr3CXJ6uizPWLrF94+fEirrxR+QfKl8AzKAv9LeuRn/TfaXjRB6lwf1T7sO2O+EfPkpe+pShMt9n06d6jC3Devca/s/ryAj03NY5g33qVsQ2QBkizmj9vdwzvNnC1QTogOxa8mMduS0LvaeIijSOH4fg+iqw8hDhdNO/PFWoe+i/Mmld3nnHJndd0JzpeXP9Gxs1qkM67JrieDeXFN7amybuz5KVvzHUdejbH80mt4txL8jbgv9ME2ay489re77W8S8rbk/+sgwl4cbxNnucxQ/Xbo8poP9SGyPBPy9rnVjmpcX3dHLXdlJtcfB/X53PUeOnyfnWxeVLo7M0zT/P/xhCksJDmdTk7075sRcUvbsWpww==
+   eJy9Vr1OwzAQdisSylRSSKg6MLJDixg60bJ1Kz8LE+/AyoCExAIPwMITMFdi5hEQEwMqGSuEys+EEJyVmFwuTnJuUz7pkx3b58/n+HwWgod3S4g3K3/c/oq+/QNsPxn2Wditm9vM2UJYwE493f6BtLeJD32m7uNysk3qdpH92ApogjM3uxyVIy3lo6zjdZfsgE+gPXACnzEV2g5/XV9IV/q4ZMd9lRhWhHgG+pXkPmP0Qt1hA8YzifeW6mbBb/DH6jCp7h/sqMr115/CX4qeJkZf4V+erAZ1Wb6E3xfl4nQVrspR/Qfql6AzqgXld/g9sOJneBpddQYx5XmkfartDp0PbuzjWBo4yTZOny4eTaDs7jXnO6uvKOB9o/eI6lv3hNgANoEtr3jdXoruNmh1gF3gDkNX5bHbalDuae5FfI8cOul9GFl5SOF0MX99pqB56L8wa13dfvpVc13TtwWe/ya8Nz07mXfzYLo3WFfF2Jom785SF8eY6Tx4b47n4yXFOck9TXjvtICbrrku9/9eh/8S6/bDd9bBBLpqPCfP0xwvceRG68E+qDySNlfWOrdq8ZL6i0Hb83KTydlX80sbel+axK/ubp4UOn+LzNPyvTEGlhaSuiZ7l7cuLil+AX86svY=
   </data>
  </layer>
  <layer name="Walkable" width="30" height="30" visible="0">
