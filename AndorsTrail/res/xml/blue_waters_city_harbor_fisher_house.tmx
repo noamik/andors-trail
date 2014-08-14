@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.0" orientation="orthogonal" width="10" height="15" tilewidth="32" tileheight="32">
+<map version="1.0" orientation="orthogonal" width="14" height="17" tilewidth="32" tileheight="32">
  <tileset firstgid="1" name="map_bed_1" tilewidth="32" tileheight="32">
   <image source="../drawable/map_bed_1.png" width="512" height="256"/>
  </tileset>
@@ -189,35 +189,35 @@
  <tileset firstgid="7833" name="map_window_2" tilewidth="32" tileheight="32">
   <image source="../drawable/map_window_2.png" width="512" height="256"/>
  </tileset>
- <layer name="Ground" width="10" height="15">
+ <layer name="Ground" width="14" height="17">
   <data encoding="base64" compression="zlib">
-   eJwr5mJgKCYS88kyMPDjwAKyCHWyQLYcDixPQJ0dKwODPRA7sCLUSXDjx+Sos2UlTp0vkeqo7T5C6kBhR0gdKKwJqTvGSljdCaCak1B1ErgwNyofAN2uJG4=
+   eJwr5mJgKCYT88kyMPATiQVkEfpkgWw5IrE8ifrsWBkY7IHYgRWhT4KbNEwNfbas5OnzxaHvhzh57uSQoI7/AtgGNjxJ1QdKK6TqA6U1UvUdYyVd3wmgnpNQfRKEMDd2cQClezWO
   </data>
  </layer>
- <layer name="Objects" width="10" height="15">
+ <layer name="Objects" width="14" height="17">
   <data encoding="base64" compression="zlib">
-   eJzbKMXA8IgA3gTEh4EYBiTZGbCCzUjqJgpA1G2Qg+DH/AwMO4H4ACtCHQ9QHS8Qa0LN62RiYHgKVHMSiC8gqZMBysmi2eUHlPcH4gBWVHvxAZi6fSwMDD0C2NX8EUCoOwdUNwlN3Vsg/w0Q8wgi1N0DqotlJWwvPrCfSH+cJ1KdBBtC3Regnq9Y3KcOVPNQCqGOBchnBWJRNtz+OAjEl9DwZahbLkL5h4AYAPeAPSQ=
+   eJzbKMXA8IhEvAmIDwMxDEiyI9gXgeKXkeSQwWYkfRMFIPo2yEHwVTYGhmtsCP5jfgaGnUB8gBWhjweojxeINaH2dTIxMFgD9Txjg/DnAvlPgXpOAvEFJH0yQDlZIPZiZGBoZ4JgbzZUt/kB1fsDcQArqjuxgRtC+P23j4WBoQfov+0smGruCaDy/wgg9J0Dqp8kgKkHBM4Axd8B8VsgfgPEPIIIffeA+mJZIfaBwgTZjXPQzHNgw+6/mUyofFEJBgY1IFaXgPCPChAOF2wgAcm+S3gwDByGumM/UjyIosUVzK2fWRH+vAwVO4+mT4QNU/8+Vkx3SiC58wtQ/isrpt5zUH1vgfQ7IFYHyj2UQuhjAfJZoXZisxeUJtWQxED6DuIJE1g+uogmfgiIAUSXaqc=
   </data>
  </layer>
- <layer name="Above" width="10" height="15">
+ <layer name="Above" width="14" height="17">
   <data encoding="base64" compression="zlib">
-   eJxzkmBgcCIBH5RiYLgMxDBwEcg+JIVd7WEkdZtxqNkIFH+MpO4hkL1JCr8aXGqxqUFWC1OHDdwRYGC4LwBhw9RdxmPeRSrZiwyIsRdZHXpcwIA4GwPDNlb88QYCO4BqdrJixgk2tQ9xxB9yPCPHMQDA1jI0
+   eJxzkmBgcKIAH5RiYLgMxLjARaDcISnseg8Dxa+zMTDcAOLNUgj+HSgfm56NQPHHQPwcqOYFG8QOGP8NED8EsjdJYddDCKDrJUYPsl6YPnyASZCB4a4A0I9AfF8AIgbThy8c0cFFIt15RABVzyEi3bkGqG87EB8TwIy/FA7sOIMDoR9bPJRwYMcVHKh+R9eLK1w6OCBpBhkgxwMobV6CYmQzpkL13WVlYLgHxOLAdLONlXD6buWAhPUBoFoxoJ4dQHonDn2E8sZDKdz6kPMHCGDLCwCpNlz9
   </data>
  </layer>
- <layer name="Walkable" width="10" height="15" visible="0">
+ <layer name="Walkable" width="14" height="17" visible="0">
   <data encoding="base64" compression="zlib">
-   eJwzlGBgMBwiGBkQkscGkNURax42dcSYh8teQmpooQ6fenLDGldYwTAA81YaPQ==
+   eJwzlGBgMBwhGBlg4+NTTwxA1odLPyH3EaOPVPsImUOMfeSGCzlxg00fMX7DZx8ufdj8h0svMWoJ2UtOmsUmDgB9UytZ
   </data>
  </layer>
- <objectgroup name="Mapevents" width="10" height="15">
-  <object name="harbor_fisher_house_entry" type="mapchange" x="192" y="448" width="32" height="32">
+ <objectgroup name="Mapevents" width="14" height="17">
+  <object name="harbor_fisher_house_entry" type="mapchange" x="256" y="512" width="32" height="32">
    <properties>
     <property name="map" value="blue_waters_city_harbor"/>
     <property name="place" value="harbor_fisher_house_entry"/>
    </properties>
   </object>
  </objectgroup>
- <objectgroup name="Spawn" width="10" height="15"/>
- <objectgroup name="Keys" width="10" height="15"/>
- <objectgroup name="Replace" width="10" height="15"/>
+ <objectgroup name="Spawn" width="14" height="17"/>
+ <objectgroup name="Keys" width="14" height="17"/>
+ <objectgroup name="Replace" width="14" height="17"/>
 </map>
