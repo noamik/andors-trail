@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.0" orientation="orthogonal" width="6" height="7" tilewidth="32" tileheight="32">
+<map version="1.0" orientation="orthogonal" width="6" height="8" tilewidth="32" tileheight="32">
  <tileset firstgid="1" name="map_bed_1" tilewidth="32" tileheight="32">
   <image source="../drawable/map_bed_1.png" width="512" height="256"/>
  </tileset>
@@ -189,35 +189,35 @@
  <tileset firstgid="7833" name="map_window_2" tilewidth="32" tileheight="32">
   <image source="../drawable/map_window_2.png" width="512" height="256"/>
  </tileset>
- <layer name="Ground" width="6" height="7">
+ <layer name="Ground" width="6" height="8">
   <data encoding="base64" compression="zlib">
-   eJxLFGNg6EfDKUCcCMTz0DBMfB0aBokXArEFFyouAYo1YREHiU3CIg4Si5RBYDcuBBsAlLMUig==
+   eJwLEmNg8EfDoUCcBMQ3RVFxKlR8IRqGiVtwoWKQeBEW8VKgWBMW8VaoeejiILFIGQR240KwAS2lFkI=
   </data>
  </layer>
- <layer name="Objects" width="6" height="7">
+ <layer name="Objects" width="6" height="8">
   <data encoding="base64" compression="zlib">
-   eJxzkmBgcMKBn/MzoAB0eRCYy4TgnwCqV2ODiDMyoKqDAUUkcXkgW5kVv/kwNgAaSQsY
+   eJxzkmBgcMKBn/MzoAB0eRCYy4TgnwCqV2ODiDMyoKqDAUUkcXlUKRRxZVaI2DdW7PbC2AA13wzm
   </data>
  </layer>
- <layer name="Above" width="6" height="7">
+ <layer name="Above" width="6" height="8">
   <data encoding="base64" compression="zlib">
-   eJxjYMANnCRQMQzs4GdgEGPDFMcF+AkrwQoeSSHYAH0oBAs=
+   eJxjYMANnCRQMQzs4GdgEGPDFMcF+EkUJwQeSSHYAMqMBBo=
   </data>
  </layer>
- <layer name="Walkable" width="6" height="7" visible="0">
+ <layer name="Walkable" width="6" height="8" visible="0">
   <data encoding="base64" compression="zlib">
-   eJwzlGBgMKQyhgF0Pro4LvXI4jA2AHdtCWo=
+   eJwzlGBgMKQyhgF0Pro4uhw2c3CZD2MDAFtUCo4=
   </data>
  </layer>
- <objectgroup name="Mapevents" width="6" height="7">
-  <object name="harbor_hut_entry" type="mapchange" x="96" y="192" width="32" height="32">
+ <objectgroup name="Mapevents" width="6" height="8">
+  <object name="harbor_hut_entry" type="mapchange" x="96" y="224" width="32" height="32">
    <properties>
     <property name="map" value="blue_waters_city_harbor"/>
     <property name="place" value="harbor_hut_entry"/>
    </properties>
   </object>
  </objectgroup>
- <objectgroup name="Spawn" width="6" height="7"/>
- <objectgroup name="Keys" width="6" height="7"/>
- <objectgroup name="Replace" width="6" height="7"/>
+ <objectgroup name="Spawn" width="6" height="8"/>
+ <objectgroup name="Keys" width="6" height="8"/>
+ <objectgroup name="Replace" width="6" height="8"/>
 </map>
