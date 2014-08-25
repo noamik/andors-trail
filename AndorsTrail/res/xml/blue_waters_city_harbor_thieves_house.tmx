@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.0" orientation="orthogonal" width="14" height="14" tilewidth="32" tileheight="32">
+<map version="1.0" orientation="orthogonal" width="20" height="20" tilewidth="32" tileheight="32">
  <tileset firstgid="1" name="map_bed_1" tilewidth="32" tileheight="32">
   <image source="../drawable/map_bed_1.png" width="512" height="256"/>
  </tileset>
@@ -189,28 +189,28 @@
  <tileset firstgid="7833" name="map_window_2" tilewidth="32" tileheight="32">
   <image source="../drawable/map_window_2.png" width="512" height="256"/>
  </tileset>
- <layer name="Ground" width="14" height="14">
+ <layer name="Ground" width="20" height="20">
   <data encoding="base64" compression="zlib">
-   eJwr4mJgKCITW8iQhmH6PGRQcZ84Kl+GHZUP03dUBoHnQvUgi3Gxo/Jh+hqAuJ4LoQeEYWJ9SBgmBtMHE0NxKxduvcj68KlDF0PXR6xemD5i7EAWQw8XYvXC4pwUvzVA9cDCjhS9sPglNVxAeg4D8REZTPYRJHY9WpoCYQDNtG0r
+   eJytk70NgzAQhWkcJBZI40EYIWVmYQEygTfINEAmQClSp8oUwXJOPP/c2QGKJ9lPvu9k33PXVFV3sFp9jIh30b7M2d/rOj6TEvEmver+Y6HX1P6eE/Fui/pmZVmRZ0A5j3jke3cuqA895G2pR+96inl7mf/mKnynPfnDuXE1XP64bNE9uZpU/qRs4TtJ+ZtV/u1DnjSPtyqbHfVNzQj9kjzYcw/lvNSMUv9DYrbwZ+j90cM+L+U0K55Jf9DALNDDPh/l9BSYk8571AfrLXPrn7OsYdGo4/UI63DfC5n9Apgg4Fk=
   </data>
  </layer>
- <layer name="Objects" width="14" height="14">
+ <layer name="Objects" width="20" height="20">
   <data encoding="base64" compression="zlib">
-   eJxjYKAc1IpD6F5xVHExduzqzYUYGC7xMzDMkkPouQjlSwP15AowMMiyQ/iGAgh9O/hR7ZkHpDuZGBjmAtVoA9XXAmldID0XKOaIpO8EP0I9CJtA5dYiqYGB1/wIdpoQQl8PUO1hJkw5bPzj/Axkgddk6sPmFkU23HIw4Izk/+0sDAxsrMAwZiHPDchgDpZwJeQWfHLEAhagn1nZiFe/Bos7AfFLHS4=
+   eJxjYKAdqBWH0L3iqOJi7Ah2igADQ6oAfnPMhRgYLvEzMMySQ5h1EcqXBpqVC9Qvyw7hhwDZoVjMeySFYO/gR3XXPCDdycTAMBeoTxtoTi2Q1gXSc5lQzchFMtcRiX2CH2EOCJtA5dbi8ddboLp3QPwe6obX/Ai5NCGEeT1AMw4zoYojA2xi6OLH+bGrIRe8JsM8GzYGBls2BD+BDbfawQhAceokgEoji+MCvUC5K8DwuoUUZoFAMRcgLoHShVC6CEkcHTyWgqSFuVC5h1KYanABRSxhfQzqHlga9cJi53YWTJqNFZh/oPxtrLjtRDbPGcpGT/OkAGTzkNM2zG3o4oQAMWqPsxBWgw3cZEVgGHgDNOstEL8jw8yXrAiM7jZi3MgCjH9WCvLbGjzpGwB+mUAl
   </data>
  </layer>
- <layer name="Above" width="14" height="14">
+ <layer name="Above" width="20" height="20">
   <data encoding="base64" compression="zlib">
-   eJxzkmBgcCITI4PNUhCxw1IMGAAmh67vIlD8EJK+XgEGBnMhiByIfggUeySFqg+mZyMQP5bCtA8kfxmIb/Mj9CGbBdID4sP0wex7iCQH07edH9VMFwGIGlwApg9kN8ydMHtgZsDYl5D4+Nz5EI39CIs7jQVwuwmfO7G5hZbuJBZ8YWVg+MpKuTsJYVjaQ8YANphZTA==
+   eJytVEtOAzEMzWa6TcQK5RaIBRICCVVcp0foEXoTNm0kumXaE7QsK5CmvQLdE2vysGuZdIqwFEXx59ljP8/42rnxP5995LOIvW4eT/XSrm2IwYFssn5VbOt8z4Jzd1e9DXeKvU3quvy+Cad4wKLcBxGjpSt2LTvPeJSnK7WTL73XkfNL+anJ9/dLYD3wlp5rfM/nOdg11ORpxHg7f1kscm9LfryBR71EbQ85z+OIb8TpWMytLbZVvJxXbcEcyr/fuCf51Q7wkdwC9+Qsk1ET+UyC7fPW2HgQC+81z3Aa2Ode8ZlEcnAI3tLbeLfBVaWrzMDCs/ZA9o/Emp/Ek/vxkfv32dRrTGKuiF+ovuiaz+HNVW/TGTy9Q1JP/G+VLZX3V/62Y8N42Ce9Q1oPLm2EXvr+9X9e29VvoZWnmw==
   </data>
  </layer>
- <layer name="Walkable" width="14" height="14" visible="0">
+ <layer name="Walkable" width="20" height="20" visible="0">
   <data encoding="base64" compression="zlib">
-   eJwzlGBgMKQSBgFy9JCqjxp6cAFCfkJWR0gfsYDa+tDdTqw7CdlPjhsJuROX3eSECTXSKwDAwh6E
+   eJwzlGBgMKQxBgFqmkUt82hpFiFAKHxwqcFmDiHziXEPKe7FF3aE9OPSR+/4Gm7mERN3uPjY7MFnFroZuPQRSs+43EiMeYTyAq7ww2UWsf4mxX34zCTkfnLciM/tlKZDXHIAYO1KJQ==
   </data>
  </layer>
- <objectgroup name="Mapevents" width="14" height="14">
-  <object name="harbor_thieves_house_entry" type="mapchange" x="288" y="416" width="32" height="32">
+ <objectgroup name="Mapevents" width="20" height="20">
+  <object name="harbor_thieves_house_entry" type="mapchange" x="416" y="608" width="32" height="32">
    <properties>
     <property name="map" value="blue_waters_city_harbor"/>
     <property name="place" value="harbor_thieves_house_entry"/>
@@ -223,7 +223,7 @@
    </properties>
   </object>
  </objectgroup>
- <objectgroup name="Spawn" width="14" height="14"/>
- <objectgroup name="Keys" width="14" height="14"/>
- <objectgroup name="Replace" width="14" height="14"/>
+ <objectgroup name="Spawn" width="20" height="20"/>
+ <objectgroup name="Keys" width="20" height="20"/>
+ <objectgroup name="Replace" width="20" height="20"/>
 </map>
