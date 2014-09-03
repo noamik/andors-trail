@@ -194,7 +194,7 @@
  </tileset>
  <layer name="Ground" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJzt1j0OgCAMBWBmB+6inkAnVvUE6v3voA4khvTxV6gxYXgT4gcpSk2nlAmk10odmRl0+P3IOp/5XV52YKN1plg9iB0fCTdnD8hJcd1nuBZl+9xaQTWWcCm7tovqLOFSdW5uc//qfvEdWXO5zVnIRaaES5kSLrr3pc+T5LkKuaXu+hS3ZI8R49bqb7gut7dC7qpxNp1v+/4ZoUyOHetzzLft7j0mHJPyUR2sZcdKmLFrSbEuGe7qJw==
+   eJzt1r0NhDAMBeDUFN4l3ARHRQsMgO4YgP07oIiEIj/y49gVxasCfAlG2GPn3JiIJ+f+lekp/Xxkbdf9XV1+wEb7LLE8SFj/MG7NGZBT4sbXSC3OfnK1gmps4XK2tovqbOFydX7d19Vwd7IxY3dVdoM5nc5g9J6RaeFypoWL+r7192TZj1Juq15f4racMXJcrflG6kpnK+TOhLNQvf30z0jlG9m5vsS82/HZcyIxOR/VIVhhrYWZu5cS6wBoo+qb
   </data>
  </layer>
  <layer name="Objects" width="30" height="30">
