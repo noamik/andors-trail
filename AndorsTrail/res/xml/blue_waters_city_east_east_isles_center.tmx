@@ -207,7 +207,7 @@
    eJzVljsSAiEMhqO9qGzJ6qmsvIhH8GpW2nkEez2AKxTMukB4LAmO/wxdki8hJAPAVLsOYN+Bp4MYTwvdlc/mkBv7odI2XGyrp87hpfjYWMxFD7DsfTuq3mMxtpop+7AtBRuLcZXTd9aSXeJby3a10vMtnBk39xCauTk5lPi8NXMwXKT/XFyheWt9NoRcjl7lclu9rxAvNC+pU8tM1UDJTel7X+fmXcO1PHdfl8SIsTFZnt3Xobo5uJZn9xZW99y7TmmQ0zwwbgm7xP4m4zE4ao751u4bzP8Y+Hfm+OVw3VgU+ZbmwPU+/ol7SvSYi3v+EdfoEplfCiblvv0AO7xU7g==
   </data>
  </layer>
- <layer name="Walkable" width="30" height="30">
+ <layer name="Walkable" width="30" height="30" visible="0">
   <data encoding="base64" compression="zlib">
    eJzt1EEOgCAMBECe4f9/0B/qhQshuLW7tAlu0oOBMFRQu1qzp3pseJ6lz2EVGrY7s1f7yeqbbUeS5Ubs1Xqn2Tvu39d1M1xkX+p7ne2eYv5uzfNFXXSuwkWj+lex3Mpn7L0HHpfRu9dlvPOIWdFFxxVuRr9vUZno9zbWDUlxUa4=
   </data>
