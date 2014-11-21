@@ -199,20 +199,39 @@
  </layer>
  <layer name="Objects" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztlc9OwkAQxse20JabSAPtDU1EPPoK+gTeDfERPBGvekCOekEPntWrMb4BPoAJ+gL+ewAFjn6T3U03m1JdEE98yWTbZXZ+zHR2l2ihLEWuGNcjokaUzlfd/+H3K0S3FfEcgl+K8v1n0ZIRexvcHdh9ZX5M1nIk2ANwniSrjvFhzlzFNnXsEB2AffcP/Ocy0anGqVsyt0p2/nvo2yNHPHcxuiHRpXzfSIjG8c8xR7HwZfutwiTld8Dbr4ixJfdRI0ljTrKmjGHTj6H2H5nN+bYm7F0HveDCPNkTvO8eYSPJs+lH5n7Bf5izhvtLnSsvAdErzAnF+AbzMR9Y7nfmFrCmKNeZtVJniOKNYD18z3PYBWwcpHwb+eDGWq1VrWKwkgm8k1j4dDT+MEjPO5ucy2CsaLVq4nkT9mnwzozYu3jvSq6tmLsKxprG1fM8jPPXM/djCq5Za9a7jNPT6trGeJ1hN1Pmy+eCyfbQr34ocuVatmX8AHMFw9iPuf0pztUsNn/bKy0nZhbDtMfV/vHk/CzS2Z6Wk6vFruL3mmbKf9Z7xMxbrx8zg0TUR5nyH/zB/eUbOSlTTF2KXbO4F2yVdTfZ3oELLbRQvr4B9eRcfA==
+   eJztljtOAzEQhk12w64jKAhZkd0uIBGg5ApwAnqEOAJVRAkUkBIKQgpqoEWIG8ABkIAL8DoAEEr+kW3tYG1CnOXR5JdGXm/G82UmYztCDJWlyFPjbCREPUrfT3l/w7+qCHFeUc8S/FLU2z+PRqzYS+Auwy4rv8ckTUSKfQvOnWbVMF73wd2ayM9uFtRzUFbjDuYbYF9Y/LucLFttcO7B3GecmmOtF0tu/qvo222dL+XtSSGO9XwuEeIj/j5mJ1a+ZP1KJil/F7z1ihrX9D6qJ2nMbjavY7j0o2TfkdiU71qXvVtAL3gwX+8D2nc3sI7m9dOPnPsG//cea6i/zLnyEArxCCtINT7BArwPHfc7cYtYM6rX2bUyZ4jhdWAt/J5HsDbsI0z534nvhwDcmNXa1CoGK+nC24uVzy7jv4fpeeeScxmMSVareTwvwF4t3oGOfah7fgXzpua6irjTYMwwLs9zE3FD7G9Z/rpuDPPxsuK+DMC1a0161nFarK4NjKcZdjZgvnQu2Gwf/RpIlSvVsqHjh3hXtIz8iHs1wH2Sxabf9oTlRMxRmfa42T++fp9HnO2znDwWewqfV5kZf/seycMm8foRM0xUfYwZ/9sfuLcDKydjhsll2FWHe8FVWXeT6x041O/p8of/Iw31P/oEfNJh7A==
   </data>
  </layer>
  <layer name="Above" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxjYBgaQEyUgUFcFMJ+KcLA8EqEdnY9BJodiMX8n0CxX1SyN4QPU+yjCMRuGDAGsk2Q+JclCJuJzVxi5D8i2eMNZAsi8Q/jsRdmJj6zCbkLF8BlL7qd+Ownxt5GJL+C/I1sLyl2UQrQ/UttO48IofKDpbHb+wgYBo+B+AkN8xgoLV9Cs/cT0L7PQPwFyd5DQPZzIH5BhlueounRE0bYCStDkMsVdHAEKP+DgL2kxgkxZcgVIvxKqzRIa3ubyExTA+FffPluCw3zBrXyOyyNE5N/qFnWwNL4dyLzDz3KVmLtpbXd9PYnKWCg3DPQZRm57QZy3Expm4WcsCIlneNyDzFuIhZT6kZq2jsKUAEAbHRc1w==
+   eJxjYBgaQEyUgUFcFMJ+KcLA8EqEdnY9BJodiMX8n0CxX1SyN4QPU+yjCMRuGDAGsk2Q+JclCJuJzVxi5D8i2eMNZAsi8Q/jsRdmJj6zCbkLF8BlL7qd+Ownxt5GJL+C/I1sLyl2EQPeMOGWQ/cvtewEgT9Ae48IMTB8QLI/WBq7vY+AYfAYiJ9QM48xo3JBafkSmr2fgPZ9BuIvSPYeArKfA/ELMtzyFE2PnjDCTlgZglyuoIMjQPkfBOwlNU6IKUOuEOFXStMDCLALodLEAErtbSIzTZFr7w9BYJgLoor9AfL/CmJXj81ObPZuoWH9Q438DgKwNE5M/iG3rHmOFI7voWxYGv9OZP4hx+7vRMQfOfZSGuak2juYwEC5Z6DCgtJ2AzluprTNQk5YkZLOcbmHGDcRiyl1IzXtHQWoAABnjmcY
   </data>
  </layer>
- <layer name="Walkable" width="30" height="30" visible="0">
+ <layer name="Walkable" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztlEsOwCAIRHuM3v8G3rBpujEEYQaHpAtNSNUCTz467usaR1x5hzdX+bbD7s9rxifCROwRthcDyvViznxF+p5NpBfZs4OpMRJ7F3fV213cWT9a73BRNtJrdl7hsn0a7au4lVyxeWbOE52P4Wb5i/Ts9y/93DlW8Vb8ePcqq6Ei1lXN539dXOb9RmrbVf/sPqnuNvpOKriRnYqL+N7hVuPKbCr5ZWuh6BuWq+rXzNeRTx5rIW0p
+   eJztlEsOgDAIRD2G97+BNzTuGkKZx8eVkjRKU5iZAr3O47j+5a7HvP+p3Nbs/upnchJMEk+wPQ0U19Oscqk4cs82PtKuOEZco3M07zTurrffwl3PR34Hl2KTXrP/FVzKic7HBO5uztev3cvOXoZPxC9T3+itsuc8P9Kr+Co/s0dxu7bTW8lD7lD1c1WDV/Mdl2lcOgektm/VX9Wii0ver2ncKG4Kl+Tu4FZ1qZjK/WZroeaaWpdjdU4qPfK1dQM5K3gn
   </data>
  </layer>
- <objectgroup name="Mapevents" width="30" height="30"/>
+ <objectgroup name="Mapevents" width="30" height="30">
+  <object name="south_west_isles_north_to_west" type="mapchange" x="928" y="160" width="32" height="256">
+   <properties>
+    <property name="map" value="blue_waters_city_south_west_isles"/>
+    <property name="place" value="south_west_isles_north_to_east"/>
+   </properties>
+  </object>
+  <object name="south_west_isles_north_to_west_mid" type="mapchange" x="928" y="480" width="32" height="128">
+   <properties>
+    <property name="map" value="blue_waters_city_south_west_isles"/>
+    <property name="place" value="south_west_isles_north_to_east_mid"/>
+   </properties>
+  </object>
+  <object name="south_west_isles_north_to_west_south" type="mapchange" x="928" y="640" width="32" height="160">
+   <properties>
+    <property name="map" value="blue_waters_city_south_west_isles"/>
+    <property name="place" value="south_west_isles_north_to_east_south"/>
+   </properties>
+  </object>
+ </objectgroup>
  <objectgroup name="Spawn" width="30" height="30"/>
  <objectgroup name="Keys" width="30" height="30"/>
  <objectgroup name="Replace" width="30" height="30"/>

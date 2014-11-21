@@ -207,12 +207,61 @@
    eJxjYBgF+MA16YGxV1Bk4OxGByC3UKIWmxit/GYuw8BgIYNb/BmSvfLCDAwKwtS1FxdNLIgTxS9vCTTLSgZBE2vvRqA/Ezlwm1uHZG8SmrpUQQaGNEFU+0nxbyMee/uQ7G3igLhxHo4wSOLA7weQPpCajVjiFJ8+kB58bmwiIA9TAwMg+6czQdiEzCUEsPkFGRyWIGwGNfQgA5DfLmExYxPQrZvR8BaksMCmh1KwCc0ucgEsXcMALB3jSzcwAEt36O5BDwdi7IUBQukNBmBpCF++AQH0PI1ejpAKQGkI5Fdi8wW6faTYC0s/IHBJAhHG+MATYfz2kmK/JbDssxJE8B9CzQblzUdA/BgJo9tLCfAE2ukliCkeCBQrBOIiJDl8/iKl/iYXUMO/xAJQ24EYPxkRUR6Q0g6hZjg+Q7OXHnE0CkYBIQAAp0dThg==
   </data>
  </layer>
- <layer name="Walkable" width="30" height="30" visible="0">
+ <layer name="Walkable" width="30" height="30">
   <data encoding="base64" compression="zlib">
    eJztk10KgDAMgz2G97/Bbig+CGP0J2kj7GGBMtT1S9fZcV/XOLFVvJrXDidieEJyEV+F1H7W2So1eHui9+tq1cSq+w+ochQche/aZzavU5e1L+NWa0JmAOFa+6L8ub+eUF8rb0dV+8+wrWfWtzJjlbMyvhk/+9b1Vd/Xx/TYSG0K/6wfXS7KYO9TLXReVF6eP+ud1YTks/OOnC/ioJ5oz1neif/jATR4uIk=
   </data>
  </layer>
- <objectgroup name="Mapevents" width="30" height="30"/>
+ <objectgroup name="Mapevents" width="30" height="30">
+  <object name="west_isles_center_south" type="mapchange" x="0" y="672" width="32" height="96">
+   <properties>
+    <property name="map" value="blue_waters_city_south_east_isles_west"/>
+    <property name="place" value="west_isles_east_south"/>
+   </properties>
+  </object>
+  <object name="west_isles_center_north" type="mapchange" x="0" y="128" width="32" height="96">
+   <properties>
+    <property name="map" value="blue_waters_city_south_east_isles_west"/>
+    <property name="place" value="west_isles_east_north"/>
+   </properties>
+  </object>
+  <object name="west_isles_center_center" type="mapchange" x="0" y="416" width="32" height="96">
+   <properties>
+    <property name="map" value="blue_waters_city_south_east_isles_west"/>
+    <property name="place" value="west_isles_east_center"/>
+   </properties>
+  </object>
+  <object name="west_isles_center_center_to_east" type="mapchange" x="928" y="448" width="32" height="96">
+   <properties>
+    <property name="map" value="blue_waters_city_south_east_isles"/>
+    <property name="place" value="west_isles_east_center_to_east"/>
+   </properties>
+  </object>
+  <object name="west_isles_center_center_to_east2" type="mapchange" x="928" y="544" width="32" height="32">
+   <properties>
+    <property name="map" value="blue_waters_city_south_east_isles"/>
+    <property name="place" value="west_isles_east_center_to_east2"/>
+   </properties>
+  </object>
+  <object name="west_isles_center_center_to_east3" type="mapchange" x="928" y="320" width="32" height="96">
+   <properties>
+    <property name="map" value="blue_waters_city_south_east_isles"/>
+    <property name="place" value="west_isles_east_center_to_east3"/>
+   </properties>
+  </object>
+  <object name="west_isles_center_south_to_east" type="mapchange" x="928" y="736" width="32" height="64">
+   <properties>
+    <property name="map" value="blue_waters_city_south_east_isles"/>
+    <property name="place" value="west_isles_east_south_to_east"/>
+   </properties>
+  </object>
+  <object name="west_isles_center_north_to_east" type="mapchange" x="928" y="96" width="32" height="32">
+   <properties>
+    <property name="map" value="blue_waters_city_south_east_isles"/>
+    <property name="place" value="west_isles_east_north_to_east"/>
+   </properties>
+  </object>
+ </objectgroup>
  <objectgroup name="Spawn" width="30" height="30"/>
  <objectgroup name="Keys" width="30" height="30"/>
  <objectgroup name="Replace" width="30" height="30"/>
