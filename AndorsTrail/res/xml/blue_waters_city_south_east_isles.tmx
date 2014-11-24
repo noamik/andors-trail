@@ -207,7 +207,7 @@
    eJxjYCAdXJOmTJ5ckMhBnLokItXBALJ7BUUQ7BtCELqRSPOagOquCWGXs5RhYLCSgbBv4VADApuEGRg2I2FkcEwOQsezo/LxAZi9MBrdfGLwVag9+VB7r0H5+sLY7aSWvVuQzE8UZGAoBOIiQdr7dwsefxEb3vS0l9h8AQOg/HEemAZTgWGZRiA88QFi8wUMNEHVlwLtLKPAXmL8W4SkJp0Cu5ABMf4F+RE97ilJT8SCwxIDY+8lCdrbMQqoD5DrI1qAlwTqQXSa1oCW9j0koh6kN0C39yaeNgetAai9Q6024U1GCH2PiYEhRBK7mjdIfn1GJXvlgXGsgCOebwxg2A5WMJDpbbCBoZQ+AEsIYuI=
   </data>
  </layer>
- <layer name="Walkable" width="30" height="30">
+ <layer name="Walkable" width="30" height="30" visible="0">
   <data encoding="base64" compression="zlib">
    eJzNldENACEIQx3j9t/ADe+XEM8DbItN/DHiKyI6nzHmxcMqE3PK8srER/f+YyK4kdyq3MxZnyqbL4ob8aPkenbUz6pmJ1x0bzPzRfRAhmnXVtR112/iKtTB3Z0fy4f6ffpiKjyw3wQUm8Fd+bBzTHXXdhfTwUVK8dchmP7/UzKruaOYES9sFmK82GpBMQ==
   </data>
@@ -241,6 +241,12 @@
    <properties>
     <property name="map" value="blue_waters_city_south_east_isles_center"/>
     <property name="place" value="west_isles_center_north_to_east"/>
+   </properties>
+  </object>
+  <object name="boat_southern_isle_to_harbor" type="mapchange" x="864" y="640" width="64" height="32">
+   <properties>
+    <property name="map" value="blue_waters_city_harbor"/>
+    <property name="place" value="boat_harbor_to_southern_isle"/>
    </properties>
   </object>
  </objectgroup>

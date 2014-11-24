@@ -199,7 +199,7 @@
  </layer>
  <layer name="Objects" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJy1ls9rE0EUx8cotv5ayG6hSShof4igvdT/QC969qJe1YMeG/+C2JPHKipCPRT/Ek3BeBFqQSFI9hZLK4YgirY9+H3MPHbyOjO7G+gXHi+b7JvPvHkzb6KUUjdmlLo5M74nvaxo/6+ufT9WaidWh7QeKdWM9OdxeZvJ6JidWHO34b87mKzHBbkfMMY7MFL49/BtYxsWtxdn3Dyt53AHnjnzmq5Usjwvwn4a7oXEHScVqls3sF6b05pJ83uQFM/Xx+0JFo2XmrW+A7vryIdq8c2qL8m1r2wNTN02TA3lbzSP21UwYQ/xziOTm80k0bxc+X4RY66a+lK97PW061ZGzO2buF1PPO9ne84sypO/+w1/EmMeM3YcdgJWgc0mozF2vp8C3M9ntG3B6o1svTtxVmcX9088yu2KczQ3pdQ8bGHKzaU1GSb6nE+AW2toPo3xsWS+qeF+DdSHavskGp0X7UOKOdXQZ7FTksv5hnqV3SeHJvYcfJTovCnnUH3lOpO4b2wHuMxm8V6nOeyanEP52lyeH71/CXF/C/SOJcRddfQB4obq68p3EGdnaU7sKXmGr+G961Ys95i8fH31LZrzAuLmPfmmJbg8x54595RzXp90ife0jyvXmXh8hrs59wOdpWew59Hh33hPF83X3ltpDpf384qDK9lSr00P577+wurpRc5xiNs354n0VHCkmLuMO6tZHb0ffGp5uCTi/sCYS+f1M/kt89yD35tQah92AGvXlLoF5jRiJsU6ue6mlqfOO6ZnH2D8N7BXsHYly28NdnpSP581/p7J9X41nKst13r/Avsy2FeE7dd1n9iDX2xkd0rNkWueWp69TZLrxHNZFAx5F/nufinfHpOaNT1w6Og546golyR7rq3QnbTqYJThjiO+95uCc5RcZpLs/3bL+Pz2iLg2k/Qf0ivukQ==
+   eJy1lk1rU0EUhscotn5dyL2FJkHQfoig3dR/oBu7dqNu1YUum/6C2JXLKiqCLoq/xKbQuBFqQSFIsoulFUMQRdsufA8zhzs5mZl7b0tfOJymzcwz75yZM124qNRtxMIRMulVSed/VZ17sVI7sRrRaqRUPToabzMZnrMVa+428ncHk7WUk7uBOT6A0UVeQ26aWLe4nTjlZmk1g9v3rJn3dLmU+ryC+Gm4lxP3OFtZdWsH9mtzUjNpfY+S/H593I5g0Xxds9f3EPcdfqgW36z6klznylbf1G3d1FD+jdZxtwwm4jG+88R4s5kkWpfL7xcx50qkM9XL3k+7bkXE3J4Zt+sZvxSNrplFPvl3v5FPY84TJk4iTiFKiKlkeIzt91OA+/mcji1EtZbudytO6+zi/omHuW1xj6YnlJpBzE64ubQng0Tf8zFwKzXNpzk+FvTbNdyvgfpQbZ9Gw+uic0hjztT0XWwV5LLfUK/iPkkamLEXkKNE+ybPofrKfSZx39gOcJnN4rNOa9g1nkN+bS6vj75/FeP+5ugd8xh3w9EHiBuqr8tvP07v0rQ4U/IO38T3blljucdk+fXVN6/nWYyb8fjtFuDyGjvm3pPnrD7pEp9pH1fuM/H4Drcz3ge6S88RL6LRv/GZzuvXPlvdDC6f52UHV7Kl3pgezn39pdXT89zjELdn7hPpmeBIMXcRb1a9PPw++NTwcEnE/YE55y/pz5S3zOcO8t6YUvuIA0SzotQdMCcxZlzsk+ttanjqvGN69gHmf4d4jWiWUn9vEWfH9efzJj8wXh+Ww15tufb7F9jXwL4uYr+q+8Qe8lwtfVMqDq9ZanjONknuE69lTjDkW+R7+6V8Z0xqyvTAgaPnHEZ5uSTZc22F3qQVB6MI9zDid78uOMfJZSbJ/t9uET+/PyauzST9Bwm08Ok=
   </data>
  </layer>
  <layer name="Above" width="30" height="30">
@@ -217,6 +217,12 @@
    <properties>
     <property name="map" value="blue_waters_city_east_isles_north"/>
     <property name="place" value="path_to_east"/>
+   </properties>
+  </object>
+  <object name="path_to_north_east" type="mapchange" x="544" y="0" width="224" height="32">
+   <properties>
+    <property name="map" value="blue_waters_city_east_isles_north_north_east"/>
+    <property name="place" value="path_to_north_east"/>
    </properties>
   </object>
  </objectgroup>
