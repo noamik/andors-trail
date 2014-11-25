@@ -207,13 +207,13 @@
    eJyzkGFgMAdiCzLojcIMGOC2EAPDTSFMcXRAjPkgALNjE5DeDMVbsNhbiUWMVHupBc5i8T817Q0E+lUeiPWI8DMp9mGLT0rBJhzxBQPuggwMHoL4zQC5i5g0RW0Asvf2ANhLCSAU3oQAzL9CIgwMwkAsIoJb7UOgPf+g+f0OFCfSIA0hA2R3gdxKbHlDDfCQin4jN13B3GBNhluCBjA9g/LSOSFI/OFLU7jAPwrcTWz6UKVy2oWlT3LsHqh4AoVVCgXhIAvUK0eG/qFWztIbTGdiYLgswcDwlgnCpgZIlGZgSCIC7xJnYHgFtDMIWE8nE6iriQHY2i3Y/HQJ6N9fQPEkoJ0GFObNj9D0hV6O4CpXmoB2JlLBr7iAILQMpGadMgpGAaUAAK9/Sg0=
   </data>
  </layer>
- <layer name="Walkable" width="30" height="30" visible="0">
+ <layer name="Walkable" width="30" height="30">
   <data encoding="base64" compression="zlib">
    eJzNlFEKwDAIQ3uM3f8GveG+Cv3obEwTu4AMhvrMJvantX4YkU57o7zVe4cfRE7errbSZ5a7q1dws3WsnN8SZbq5o3/Edc1QsbMoM+K678Uqj+Wy90KlLz+od6Uqb+NtbvYfK+4iynV4ZrmKeZkemZpohiyb4Z6w0dyRs+Nm55+fc4/ID8tU7zbDzeydgqmeqSJuMP8cL3ivXwc=
   </data>
  </layer>
  <objectgroup name="Mapevents" width="30" height="30">
-  <object name="path_to_east" type="mapchange" x="0" y="192" width="32" height="96">
+  <object name="path_to_east" type="mapchange" x="0" y="192" width="32" height="128">
    <properties>
     <property name="map" value="blue_waters_city_east_isles_north"/>
     <property name="place" value="path_to_east"/>
@@ -223,6 +223,12 @@
    <properties>
     <property name="map" value="blue_waters_city_east_isles_north_north_east"/>
     <property name="place" value="path_to_north_east"/>
+   </properties>
+  </object>
+  <object name="path_to_east2" type="mapchange" x="0" y="320" width="32" height="96">
+   <properties>
+    <property name="map" value="blue_waters_city_east_isles_north"/>
+    <property name="place" value="path_to_east2"/>
    </properties>
   </object>
  </objectgroup>

@@ -207,12 +207,19 @@
    eJxjYBgFo2DoAiERBgYREQh7o/DAuGEg7N0EtHMzne2F2UkPe5Ht2kxle0FpRhgp3eCzj9r+FSTBTlqF80DZe14Iu/glYeql53kkmoHPXuS4Qud/wuEXSgHIDmR7kNnXpIk3Rx7oJwUSwuIMEwPDYSYIeyaUnicKYYPsJcVuUsAdoPmXmRD8uUjsyxII9hEC4U1KfCizMTAkSePGhyWoX6bD3AeKz79AP74D4v9Qv6oD7foNZF+SwK0fHagA9RgCsRGR7lQUQU0TH4H+/ERinCpD9ToCaScSw+ejECQNMcowMDDJkKaXUvAQ6FZBoJ1CdLIXOc/KAu2Wo1M9ja1eoxdALytHwdAEADjFRns=
   </data>
  </layer>
- <layer name="Walkable" width="30" height="30" visible="0">
+ <layer name="Walkable" width="30" height="30">
   <data encoding="base64" compression="zlib">
    eJztlMENQCEIQx3D/TdwQ68eRClSiAkkPZmfR2u/o7c2SiUHrZPFzvAaxd1NJIvJ1U4G82eudRg8Rq8kBitnxIuFi373er7mxejRba+obiFeEaamjyf2LhOUqd3fepcebwHrf/Ts6ytTylvax4OH+mYxIz2WeJorp/T+
   </data>
  </layer>
- <objectgroup name="Mapevents" width="30" height="30"/>
+ <objectgroup name="Mapevents" width="30" height="30">
+  <object name="north_north_to_north_north_west" type="mapchange" x="928" y="128" width="32" height="512">
+   <properties>
+    <property name="map" value="blue_waters_city_east_isles_north_north"/>
+    <property name="place" value="north_north_to_north_north_west"/>
+   </properties>
+  </object>
+ </objectgroup>
  <objectgroup name="Spawn" width="30" height="30"/>
  <objectgroup name="Keys" width="30" height="30"/>
  <objectgroup name="Replace" width="30" height="30"/>

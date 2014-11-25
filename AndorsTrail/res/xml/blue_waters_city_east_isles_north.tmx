@@ -207,9 +207,9 @@
    eJztlktOwzAQhg03aFxVBZfHFSIWqN2hrtolFT1AkbgDJ0EcIxSx4SGhsqOrZAu0PJZwB2YUW5k6TlznwYpP+hUncfx74hknjLmxEIwtQa/y+AB6kecL0l6SNmXsMXbYyfe4E/n3i3Cm+W63GBOtdBv54En7WLipL+cekDGUr+pzmhEf+qo+rhzJ56J22pcyImOrvjReV1S8M4uvD/0mUrOafJGJWBX2e+dxToXEV913xddiUEx5omueeM0NHgFPz9MmFW/YTo+3Lhj3p0Vf2pqYchVrGIXvVEk/V9fKQsd48+I6xneqpJ/PhXketrl1G4z1QF3I3V4nHpcS5MSyB+9sn5vX2sYAPIegAXgOLfsiJSrgFZXInaKMSK1UkQ/IVdNev76hRpFGs5o5ZNEX6Rp9yoj7YM39D+eMOTb1svcHPdYd6L9bYn/VudiM64Z+1/BaWPHamihSV1VwzpP/HZ06/lEUWf9NyHONvt8w9g/oXvO4FdWswWX5IZy4aeTfrytnT7aSI9UYFG2sflvqzKO/BOPK41HGXPf++085fgF2f4e6
   </data>
  </layer>
- <layer name="Walkable" width="30" height="30" visible="0">
+ <layer name="Walkable" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztk1kKgDAMBXuM3v8GvaF+lpI0SyeK4IMg1pJ5WRy9tXGHR6PnQssjnc/PCu7Og/SdYEfu/9zvcaV80k5VcKPyMigeraf6JHFPPe28RX0Tu7/L6/VDziL7r3nqJb1n7ke9R2vP9iiTb37XRPItzhtckqmxtTnQ3HWmGuOU66lP6z2xwxlR/VzPK5gWd2WQXGsG1qxJVkRkfVEvFf0+jQvgnrVl
+   eJztk1kKwDAIRHOM3P8GuWH7GcSJ29hSqCAlks5zy5pjrNs9tmbOkY4W379MroyhO1Xmie25/3O/x0V6cqc6uFHzMlg8pj3dp9M5mxfSiebN3H1N15sPcx6Vt2bVm809+g/iRHO3ZsbqUUZvPyNj8i3OG1wmE7HRHNhcOVPEqHI99aHeM3Y4Y6x+yngH0+Jq+iyuNQNr1kxWxJj1RXPp6HfVL3rPvtE=
   </data>
  </layer>
  <objectgroup name="Mapevents" width="30" height="30">
@@ -241,6 +241,24 @@
    <properties>
     <property name="map" value="blue_waters_city_east_isles_north_east"/>
     <property name="place" value="path_to_east"/>
+   </properties>
+  </object>
+  <object name="path_from_north_to_south_east" type="mapchange" x="256" y="0" width="96" height="32">
+   <properties>
+    <property name="map" value="blue_waters_city_east_isles_north_north"/>
+    <property name="place" value="path_from_north_to_south_east"/>
+   </properties>
+  </object>
+  <object name="path_from_north_to_south_east2" type="mapchange" x="64" y="0" width="192" height="32">
+   <properties>
+    <property name="map" value="blue_waters_city_east_isles_north_north"/>
+    <property name="place" value="path_from_north_to_south_east2"/>
+   </properties>
+  </object>
+  <object name="path_to_east2" type="mapchange" x="928" y="320" width="32" height="96">
+   <properties>
+    <property name="map" value="blue_waters_city_east_isles_north_east"/>
+    <property name="place" value="path_to_east2"/>
    </properties>
   </object>
  </objectgroup>
